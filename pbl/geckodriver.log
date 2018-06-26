@@ -1,0 +1,92 @@
+1530039461559	geckodriver	INFO	geckodriver 0.20.1
+1530039461594	geckodriver	INFO	Listening on 127.0.0.1:53513
+1530039462576	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.t5sxXLrxnPng"
+1530039479563	Marionette	INFO	Listening on port 45318
+1530039479576	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530042155450	geckodriver	INFO	geckodriver 0.20.1
+1530042155498	geckodriver	INFO	Listening on 127.0.0.1:35042
+1530042156435	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.HByxs4I4LxaX"
+1530042159958	Marionette	INFO	Listening on port 43704
+1530042159973	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530042642868	geckodriver	INFO	geckodriver 0.21.0
+1530042642878	geckodriver	INFO	Listening on 127.0.0.1:37125
+1530042643882	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.ZuDl7OvXSthA"
+1530042647411	Marionette	INFO	Listening on port 43463
+1530042647498	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530042734398	geckodriver	INFO	geckodriver 0.21.0
+1530042734417	geckodriver	INFO	Listening on 127.0.0.1:52989
+1530042735405	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.h5cnVr7rfQV3"
+1530042743017	Marionette	INFO	Listening on port 36605
+1530042743063	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530042847963	geckodriver	INFO	geckodriver 0.21.0
+1530042847974	geckodriver	INFO	Listening on 127.0.0.1:41756
+1530042848980	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.f8o5xVVyXKRh"
+1530042853407	Marionette	INFO	Listening on port 35928
+1530042853469	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530042916791	geckodriver	INFO	geckodriver 0.21.0
+1530042916796	geckodriver	INFO	Listening on 127.0.0.1:36699
+1530042917807	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.eZkAE8CNMnX4"
+1530042923215	Marionette	INFO	Listening on port 42146
+1530042923314	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530043108054	geckodriver	INFO	geckodriver 0.21.0
+1530043108216	geckodriver	INFO	Listening on 127.0.0.1:60480
+1530043108977	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.7IYFrgNFL6gT"
+1530043124876	Marionette	INFO	Listening on port 42612
+1530043124929	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://192.168.211.129:8001/dashboard/, line 23: ReferenceError: requirejs is not defined
+JavaScript error: http://192.168.211.129:8001/templates/dist/assets/js/dashboard.js, line 1: ReferenceError: require is not defined
+JavaScript error: http://192.168.211.129:8001/templates/dist/assets/plugins/charts-c3/plugin.js, line 1: ReferenceError: require is not defined
+JavaScript error: http://192.168.211.129:8001/templates/dist/assets/plugins/input-mask/plugin.js, line 1: ReferenceError: require is not defined
+1530043331120	geckodriver	INFO	geckodriver 0.21.0
+1530043331161	geckodriver	INFO	Listening on 127.0.0.1:45544
+1530043332176	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.FtthYTERJDDz"
+1530043348570	Marionette	INFO	Listening on port 33459
+1530043348640	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530043447325	geckodriver	INFO	geckodriver 0.21.0
+1530043447333	geckodriver	INFO	Listening on 127.0.0.1:35628
+1530043447754	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.CCBsriTRo2uN"
+1530043453436	Marionette	INFO	Listening on port 36523
+1530043453662	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 19450, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox-d34xn2/firefox-60.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Parent 19450, Gecko_IOThread] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-d34xn2/firefox-60.0.2+build1/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc, line 22
+[Parent 19450, Gecko_IOThread] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-d34xn2/firefox-60.0.2+build1/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc, line 22
+[Parent 19450, Gecko_IOThread] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-d34xn2/firefox-60.0.2+build1/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc, line 22
+[Parent 19450, Gecko_IOThread] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-d34xn2/firefox-60.0.2+build1/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc, line 22
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Parent 19450, Gecko_IOThread] WARNING: pipe error (90): Connection reset by peer: file /build/firefox-d34xn2/firefox-60.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Parent 19450, Gecko_IOThread] WARNING: pipe error (111): Connection reset by peer: file /build/firefox-d34xn2/firefox-60.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Parent 19450, Gecko_IOThread] WARNING: pipe error (125): Connection reset by peer: file /build/firefox-d34xn2/firefox-60.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Parent 19450, Gecko_IOThread] WARNING: pipe error (133): Connection reset by peer: file /build/firefox-d34xn2/firefox-60.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+ExceptionHandler::GenerateDump cloned child 20114
+ExceptionHandler::SendContinueSignalToChild sent continue signal to child
+ExceptionHandler::WaitForContinueSignal waiting for continue signal...
+ExceptionHandler::GenerateDump cloned child 20117
+ExceptionHandler::SendContinueSignalToChild sent continue signal to child
+ExceptionHandler::WaitForContinueSignal waiting for continue signal...
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+ExceptionHandler::GenerateDump cloned child 20122
+ExceptionHandler::SendContinueSignalToChild sent continue signal to child
+ExceptionHandler::WaitForContinueSignal waiting for continue signal...
+[Parent 17051, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox-d34xn2/firefox-60.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Parent 17051, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox-d34xn2/firefox-60.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Parent 17051, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox-d34xn2/firefox-60.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Parent 17051, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox-d34xn2/firefox-60.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+ExceptionHandler::GenerateDump cloned child 20126
+ExceptionHandler::SendContinueSignalToChild sent continue signal to child
+ExceptionHandler::WaitForContinueSignal waiting for continue signal...
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x2C004D,name=PContent::Msg_BlobURLUnregistration) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x2C004D,name=PContent::Msg_BlobURLUnregistration) Closed channel: cannot send/recv
+
+ExceptionHandler::GenerateDump cloned child 20128
+ExceptionHandler::SendContinueSignalToChild sent continue signal to child
+ExceptionHandler::WaitForContinueSignal waiting for continue signal...
+[Child 16303, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-d34xn2/firefox-60.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+JavaScript error: resource:///modules/sessionstore/SessionSaver.jsm, line 180: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIAppShellService.hiddenDOMWindow]
+ExceptionHandler::GenerateDump cloned child 20699
+ExceptionHandler::SendContinueSignalToChild sent continue signal to child
+ExceptionHandler::WaitForContinueSignal waiting for continue signal...
