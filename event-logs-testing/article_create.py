@@ -11,7 +11,7 @@ class test(unittest.TestCase):
     def test_article_create(self):
         url_api = self.url_basic + 'logapi/event/article/create/' + str(1) + '/'
         result = requests.get(url_api).json()
-        if (result["Status Code"] == 200):
+        if (result["status code"] == 200):
             data = result["result"]
             total_hits = result["total hits"]
         user = "root"
@@ -40,7 +40,7 @@ class test(unittest.TestCase):
 
         url_api = self.url_basic + 'logapi/event/article/create/' + str(1) + '/'
         result = requests.get(url_api).json()
-        if (result["Status Code"] == 200):
+        if (result["status code"] == 200):
             data = result["result"]
             if (result["total hits"] == total_hits+ 1):
                 self.assertEqual(data[0]["event_name"], "event.article.create")

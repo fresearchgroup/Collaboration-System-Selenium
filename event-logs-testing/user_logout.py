@@ -3,13 +3,13 @@ from selenium import webdriver
 import requests
 from selenium.webdriver.support.ui import Select
 
-class signup(unittest.TestCase):
+class test(unittest.TestCase):
 	
 	def setUp(self):
 		self.driver = webdriver.Firefox()
 		self.url_basic = "http://localhost:8000/"
 
-	def test_join_community(self):
+	def test_user_logout(self):
 		url_api = self.url_basic + 'logapi/event/user/logout/'
 		result = requests.get(url_api).json()
 		if (result["status code"] == 200):
