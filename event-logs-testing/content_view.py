@@ -2,14 +2,14 @@ import unittest
 from selenium import webdriver
 import requests
 
-class signup(unittest.TestCase):
+class test(unittest.TestCase):
 	
 	def setUp(self):
 		self.driver = webdriver.Firefox()
 		self.url_basic = "http://localhost:8000/"
 
-	def test_join_community(self):
-		url_api = self.url_basic + 'logapi/event/course/view/' + str(1) + '/'
+	def test_content_view(self):
+		url_api = self.url_basic + 'logapi/event/content/view/' + str(1) + '/'
 		result = requests.get(url_api).json()
 		if (result["status code"] == 200):
 			data = result["result"]
@@ -29,14 +29,13 @@ class signup(unittest.TestCase):
 		driver.find_element_by_xpath('//a [@href="/communities/"]').click()
 		driver.find_element_by_xpath('//a [@href="/community-view/1/"]').click()
 		driver.find_element_by_xpath('//a [@href="/community_content/1/"]').click()
-		driver.find_element_by_xpath('//a [@href="/course-view/1/"]').click()
-		url_api = self.url_basic + 'logapi/event/course/view/' + str(1) + '/'
+		url_api = self.url_basic + 'logapi/event/content/view/' + str(1) + '/'
 		result = requests.get(url_api).json()
 		if (result["status code"] == 200):
 			data = result["result"]
 			if (result["total hits"]== total_hits+1):
-				self.assertEqual(data[0]["event_name"],"event.course.view")
-				self.assertEqual(data[0]["event"]["course-id"], '1')
+				self.assertEqual(data[0]["event_name"],"event.content.view")
+				self.assertEqual(data[0]["event"]["community-id"], '1')
 
 	def tearDown(self):
 		self.driver.quit()

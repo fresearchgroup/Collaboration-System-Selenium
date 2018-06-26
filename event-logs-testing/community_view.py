@@ -2,13 +2,13 @@ import unittest
 from selenium import webdriver
 import requests
 
-class signup(unittest.TestCase):
+class test(unittest.TestCase):
 	
 	def setUp(self):
 		self.driver = webdriver.Firefox()
 		self.url_basic = "http://localhost:8000/"
 
-	def test_join_community(self):
+	def test_community_view(self):
 		url_api = self.url_basic + 'logapi/event/community/view/' + str(1) + '/'
 		result = requests.get(url_api).json()
 		if (result["status code"] == 200):
