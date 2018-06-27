@@ -2,7 +2,7 @@ import unittest
 from selenium import webdriver
 import requests
 
-class signup(unittest.TestCase):
+class test(unittest.TestCase):
 	
 	def setUp(self):
 		self.driver = webdriver.Firefox()
