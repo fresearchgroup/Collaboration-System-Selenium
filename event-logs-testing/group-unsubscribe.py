@@ -8,7 +8,7 @@ class test(unittest.TestCase):
 		self.driver = webdriver.Firefox()
 		self.url_basic = "http://localhost:8000/"
 
-	def test_join_community(self):
+	def test_group_unsubscribe(self):
 		url_api = self.url_basic + 'logapi/event/group/unsubscribe/'
 		result = requests.get(url_api).json()
 		total_hits=0
