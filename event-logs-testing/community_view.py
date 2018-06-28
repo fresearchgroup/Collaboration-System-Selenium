@@ -9,16 +9,16 @@ class test(unittest.TestCase):
 		self.url_basic = "http://localhost:8000/"
 
 	def test_community_view(self):
-		url_api = self.url_basic + 'logapi/event/community/view/' + str(1) + '/'
+		url_api = self.url_basic + 'logapi/event/community/view/' + str(3) + '/'
 		result = requests.get(url_api).json()
-		if (result["status code"] == 200):
+		if (result["Status Code"] == 200):
 			data = result["result"]
 			total_hits = result["total hits"]
 		user ="root"
 		pwd= "pass1234"
 		driver = webdriver.Firefox()
 		driver.maximize_window() #For maximizing window
-		driver.implicitly_wait(20) #gives an implicit wait for 20 seconds
+		#driver.implicitly_wait(20) #gives an implicit wait for 20 seconds
 		driver.get("http://localhost:8000/")
 		driver.find_element_by_xpath('//a [@href="/login/?next=/"]').click()
 		driver.get("http://localhost:8000/login/?next=/")
@@ -29,9 +29,9 @@ class test(unittest.TestCase):
 		driver.find_element_by_class_name('btn-block').click()
 		driver.find_element_by_xpath('//a [@href="/communities/"]').click()
 		driver.find_element_by_xpath('//a [@href="/community-view/3/"]').click()
-		url_api = self.url_basic + 'logapi/event/community/view/' + str(1) + '/'
+		url_api = self.url_basic + 'logapi/event/community/view/' + str(3) + '/'
 		result = requests.get(url_api).json()
-		if (result["status code"] == 200):
+		if (result["Status Code"] == 200):
 			data = result["result"]
 			if (result["total hits"]== total_hits+1):
 				self.assertEqual(data[0]["event_name"],"event.community.view")

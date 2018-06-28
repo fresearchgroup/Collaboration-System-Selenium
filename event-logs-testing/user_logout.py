@@ -14,6 +14,7 @@ class test(unittest.TestCase):
 
 	def test_user_logout(self):
 		url_api = self.url_basic + 'logapi/event/user/logout/'
+
 		headers={'Authorization': 'Token ' + str(self.EVENT_API_TOKEN)}
 		result = requests.get(url_api, headers = headers).json()
 		new_result={}
