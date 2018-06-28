@@ -15,8 +15,8 @@ class test(unittest.TestCase):
 		if (result["status code"] == 200):
 			data = result["result"]
 			total_hits = result["total hits"]
-		user ="root"
-		pwd= "pass1234"
+		user =input("Enter username: ")
+		pwd= input("Enter password: ")
 		driver = webdriver.Firefox()
 		driver.maximize_window() #For maximizing window
 		driver.implicitly_wait(20) #gives an implicit wait for 20 seconds

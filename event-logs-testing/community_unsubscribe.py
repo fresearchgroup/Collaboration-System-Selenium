@@ -18,7 +18,7 @@ class test(unittest.TestCase):
         user = "root"
         pwd = "pass1234"
         driver = webdriver.Firefox()
-        driver.maximize_window()  # For maximizing window
+        driver.maximize_window()  # For maximizing windowsignup
         driver.implicitly_wait(20)  # gives an implicit wait for 20 seconds
         driver.get("http://localhost:8000/")
         driver.find_element_by_xpath('//a [@href="/login/?next=/"]').click()
