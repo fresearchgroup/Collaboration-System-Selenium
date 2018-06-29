@@ -16,7 +16,7 @@ class test(unittest.TestCase):
 
 
     def test_course_create(self):
-        url_api = self.url_basic + 'logapi/event/course/create/' + self.community_id + '/'
+        url_api = self.url_basic + 'logapi/event/course/create/'
         result = requests.get(url_api, headers = self.headers).json()
         new_result={}
         for key,value in result.iteritems():
@@ -44,7 +44,7 @@ class test(unittest.TestCase):
         title.send_keys(self.course_name)
         driver.find_element_by_id("course_create").click()
 
-        url_api = self.url_basic + 'logapi/event/course/create/' + self.community_id + '/'
+        url_api = self.url_basic + 'logapi/event/course/create/'
         result = requests.get(url_api, headers = self.headers).json()
         new_result={}
         for key,value in result.iteritems():

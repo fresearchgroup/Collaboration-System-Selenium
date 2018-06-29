@@ -68,6 +68,8 @@ class test(unittest.TestCase):
 				self.assertEqual(data[0]["event_name"],"event.community.create")
 				self.assertEqual(data[0]["event"]["community-name"], self.comm_name)
 				self.assertEqual(data[0]["event"]["admin-username"], self.comm_username)
+			else:
+				self.assertFalse(True)
 
 		driver.quit()
 

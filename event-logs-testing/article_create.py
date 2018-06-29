@@ -15,14 +15,6 @@ class test(unittest.TestCase):
         self.headers={'Authorization': 'Token ' + str(self.EVENT_API_TOKEN)}
 
     def test_article_create(self):
-        url_api = self.url_basic + 'logapi/event/article/create/' + self.community_id + '/'
-        result = requests.get(url_api, headers = self.headers).json()
-        new_result={}
-        for key,value in result.iteritems():
-            new_result[key.lower()] = value
-        if(new_result["status code"] == 200):
-            data = new_result["result"]
-            total_hits = new_result["total hits"]
 
         driver = webdriver.Firefox()
         driver.maximize_window()  # For maximizing window
@@ -34,6 +26,16 @@ class test(unittest.TestCase):
         elem = driver.find_element_by_id("id_password")
         elem.send_keys(self.pwd)
         driver.find_element_by_class_name('btn-block').click()
+
+        url_api = self.url_basic + 'logapi/event/article/create/'
+        result = requests.get(url_api, headers = self.headers).json()
+        new_result={}
+        for key,value in result.iteritems():
+            new_result[key.lower()] = value
+        if(new_result["status code"] == 200):
+            data = new_result["result"]
+            total_hits = new_result["total hits"]
+        
         driver.find_element_by_xpath('//a [@href="/communities/"]').click()
         driver.find_element_by_xpath('//a [@href="/community-view/' +  self.community_id + '/"]').click()
         driver.find_element_by_xpath("//button [@type='button' and @data-target='#modalCreate']").click()
@@ -43,7 +45,7 @@ class test(unittest.TestCase):
         title = driver.find_element_by_id("title")
         title.send_keys(self.article_name)
         driver.find_element_by_id("create").click()
-        url_api = self.url_basic + 'logapi/event/article/create/' + self.community_id + '/'
+        url_api = self.url_basic + 'logapi/event/article/create/'
         result = requests.get(url_api, headers = self.headers).json()
         new_result={}
         for key,value in result.iteritems():
@@ -57,7 +59,6 @@ class test(unittest.TestCase):
                 self.assertFalse(True)
 
         driver.quit()
-
 
 if __name__ == '__main__':
     unittest.main()

@@ -49,6 +49,10 @@ class test(unittest.TestCase):
 			if (new_result["total hits"]== total_hits+1):
 				self.assertEqual(data[0]["event_name"],"event.profile.view")
 				self.assertEqual(data[0]["event"]["user-visited"], self.username)
+			else:
+				self.assertFlase(True)
+
+		driver.quit()
 
 
 if __name__ == '__main__':

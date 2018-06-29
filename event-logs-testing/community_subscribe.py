@@ -49,7 +49,9 @@ class test(unittest.TestCase):
 			data = new_result["result"]
 			if (new_result["total hits"]== total_hits+1):
 				self.assertEqual(data[0]["event_name"],"event.community.subscribe")
-				self.assertEqual(data[0]["event"]["community-id"], self.comm_id
+				self.assertEqual(data[0]["event"]["community-id"], self.comm_id)
+			else:
+				self.assertFalse(True)
 
 		driver.quit()
 
