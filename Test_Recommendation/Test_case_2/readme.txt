@@ -1,4 +1,5 @@
-This test case runs by executing the test_file_driver.py file.
+This test case runs by executing the test_file_driver.py file which runs all other python script.
+No need to run other python file other than the test_file_driver.py.
 The test_file1.py and test_file2.py set up the environment for this test case.
 The test_file3.py contains the test_reco function which test the recommendation.
 The test_file4.py tear down (remove) the environment which is required to run this test case.
