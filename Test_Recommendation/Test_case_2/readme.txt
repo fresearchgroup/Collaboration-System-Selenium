@@ -4,6 +4,10 @@ The test_file1.py and test_file2.py set up the environment for this test case.
 The test_file3.py contains the test_reco function which test the recommendation.
 The test_file4.py tear down (remove) the environment which is required to run this test case.
 
+IMPORTANT:test_file1.py create 2 communities, 3 users, 6 articles in each communities by django-admin.
+test_file2.py give views to the articles of test_community_1 using test_user_1 and same for test_community_2 by test_user_3.
+And test_user_3 gives some views(lesser than) to articles of test_community_1. For more information see idea given below.
+
 The idea is that:
 Create 2 communities and add 6 published articles in each community. Add 3
 users to the system. All this will be done by django admin. The first user will join
