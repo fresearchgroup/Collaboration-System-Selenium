@@ -21,23 +21,12 @@ class signup(unittest.TestCase):
 
 	def test_draftToVisisbleState(self):	
 		driver = webdriver.Firefox()
-		for i in range(1,4):
-			self.login(i,driver)
-			driver.get(config('IP_ADDRESS') + 'communities/')
-			driver.find_element_by_xpath('//a [@href="/community-view/2/"]').click()
-			driver.find_element_by_xpath('//a [@href="/group-view/1/"]').click()
-			driver.find_element_by_xpath('//a [@href="/group_content/1/"]').click()
-			driver.find_element_by_xpath('//a [@href="/article-view/11/"]').click()
-			driver.find_element_by_xpath('//a [@href="/article-edit/11/"]').click()
-			driver.find_element_by_id('savechanges').click()
-			driver.get(config('IP_ADDRESS') + 'logout/')
-			driver.get(config('IP_ADDRESS'))
-			self.login(0,driver)
-			driver.get(config('IP_ADDRESS') + 'notifications/')
-			driver.implicitly_wait(100)
-			driver.get(config('IP_ADDRESS') + 'logout/')
-
-
+		self.login(3,driver)
+		driver.get(config('IP_ADDRESS') + 'communities/')
+		driver.find_element_by_xpath('//a [@href="/community-view/2/"]').click()
+		driver.find_element_by_id("join-us").click()
+		driver.get(config('IP_ADDRESS') + 'notifications/')
+			
 	@classmethod
 	def tearDown(cls):
 		cls.driver.quit()

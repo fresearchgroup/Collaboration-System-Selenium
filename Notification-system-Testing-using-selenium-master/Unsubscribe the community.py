@@ -25,19 +25,15 @@ class signup(unittest.TestCase):
 			self.login(i,driver)
 			driver.get(config('IP_ADDRESS') + 'communities/')
 			driver.find_element_by_xpath('//a [@href="/community-view/2/"]').click()
-			driver.find_element_by_xpath('//a [@href="/group-view/1/"]').click()
-			driver.find_element_by_xpath('//a [@href="/group_content/1/"]').click()
-			driver.find_element_by_xpath('//a [@href="/article-view/11/"]').click()
-			driver.find_element_by_xpath('//a [@href="/article-edit/11/"]').click()
-			driver.find_element_by_id('savechanges').click()
-			driver.get(config('IP_ADDRESS') + 'logout/')
-			driver.get(config('IP_ADDRESS'))
-			self.login(0,driver)
+			driver.find_element_by_id("Unsubscribe").click()
+			driver.find_element_by_id("Yes").click()
 			driver.get(config('IP_ADDRESS') + 'notifications/')
-			driver.implicitly_wait(100)
+			driver.get(config('IP_ADDRESS') + 'communities/')
+			driver.find_element_by_xpath('//a [@href="/community-view/2/"]').click()
+			driver.find_element_by_xpath('//a [@href="/community_feed/2/"]').click()
+			#make the id as visible of the button of visible in html file
 			driver.get(config('IP_ADDRESS') + 'logout/')
-
-
+			
 	@classmethod
 	def tearDown(cls):
 		cls.driver.quit()

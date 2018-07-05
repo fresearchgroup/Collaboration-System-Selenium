@@ -21,11 +21,10 @@ class signup(unittest.TestCase):
 
 	def test_draftToVisisbleState(self):	
 		driver = webdriver.Firefox()
-		for i in range(1,4):
+		for i in range(1,3):
 			self.login(i,driver)
 			driver.get(config('IP_ADDRESS') + 'communities/')
 			driver.find_element_by_xpath('//a [@href="/community-view/2/"]').click()
-			driver.find_element_by_xpath('//a [@href="/group-view/1/"]').click()
 			driver.find_element_by_xpath('//a [@href="/group_content/1/"]').click()
 			driver.find_element_by_xpath('//a [@href="/article-view/11/"]').click()
 			driver.find_element_by_xpath('//a [@href="/article-edit/11/"]').click()

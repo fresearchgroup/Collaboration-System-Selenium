@@ -1,6 +1,7 @@
 __author__= 'shubh'
 import unittest
 from decouple import config
+from selenium.webdriver.support.select import Select
 from selenium import webdriver
 
 class signup(unittest.TestCase):
@@ -19,25 +20,26 @@ class signup(unittest.TestCase):
 		elem.send_keys(config('NOTIFICATION_PASSWORD'))
 		driver.find_element_by_class_name('btn-block').click()
 
+	def fillTheForm(self,driver,var):
+		elem = driver.find_element_by_id("username")
+		user = config('NOTIFICATION_USER').split(',')
+		elem.send_keys(user[var])
+		driver.find_element_by_id('remove').click()
+		driver.get(config('IP_ADDRESS') + 'logout/')
+		self.login(var,driver)
+		driver.get(config('IP_ADDRESS') + 'notifications/')
+		driver.get(config('IP_ADDRESS') + 'logout/')
+
 	def test_draftToVisisbleState(self):	
 		driver = webdriver.Firefox()
 		for i in range(1,4):
-			self.login(i,driver)
+			self.login(0,driver)
 			driver.get(config('IP_ADDRESS') + 'communities/')
 			driver.find_element_by_xpath('//a [@href="/community-view/2/"]').click()
 			driver.find_element_by_xpath('//a [@href="/group-view/1/"]').click()
-			driver.find_element_by_xpath('//a [@href="/group_content/1/"]').click()
-			driver.find_element_by_xpath('//a [@href="/article-view/11/"]').click()
-			driver.find_element_by_xpath('//a [@href="/article-edit/11/"]').click()
-			driver.find_element_by_id('savechanges').click()
-			driver.get(config('IP_ADDRESS') + 'logout/')
-			driver.get(config('IP_ADDRESS'))
-			self.login(0,driver)
-			driver.get(config('IP_ADDRESS') + 'notifications/')
-			driver.implicitly_wait(100)
-			driver.get(config('IP_ADDRESS') + 'logout/')
-
-
+			driver.find_element_by_xpath('//a [@href="/manage_group/1/"]').click()
+			self.fillTheForm(driver,i)
+		
 	@classmethod
 	def tearDown(cls):
 		cls.driver.quit()
