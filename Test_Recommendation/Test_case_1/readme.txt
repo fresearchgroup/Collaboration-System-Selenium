@@ -17,4 +17,4 @@ DEPLOY_ADDRESS: This field is the ip address of the Collaborative system (with p
 
 ####################################
 
-Note: The model must be trained before execution of test_recommendation.py file. Please check that there should be some recommendation in the article. 
+Note: The system should have some articles,users and community.The system should have some recommendation showing in the recommendation list i.e., the model must be trained before execution of test_recommendation.py file. Please check that there should be some recommendation in the article. 
