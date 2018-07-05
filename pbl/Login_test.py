@@ -9,15 +9,17 @@ from selenium.webdriver.common.action_chains import ActionChains
 from decouple import config
 
 
-class LoginCorrect(unittest.TestCase):
+IP = config('IP_ADDRESS')
+PORT = config('PBLCLIENT_PORT')
 
-        IP = config('IP_ADDRESS')
-        PORT = config('PBLCLIENT_PORT')
+class LoginCorrect(unittest.TestCase):
 
 	def setUp(self):
 		self.driver = webdriver.Firefox()
 
 	def test_UI7_1(self):
+
+		print "http://"+IP+":"+PORT+"/register/"
 
 		fname = 'Saurabh'+''.join(random.SystemRandom().choice(string.digits) for _ in range(3))
 		lname = 'Singh'+''.join(random.SystemRandom().choice(string.digits) for _ in range(3))
@@ -29,7 +31,7 @@ class LoginCorrect(unittest.TestCase):
 		# Creating User account
 		driver = self.driver
 
-		driver.get("http://IP:PORT/register/")
+		driver.get("http://"+IP+":"+PORT+"/register/")
 		elem = driver.find_element_by_id("first_name")
 		elem.send_keys(fname)
 		elem = driver.find_element_by_id("last_name")
@@ -45,7 +47,7 @@ class LoginCorrect(unittest.TestCase):
 		driver.find_element_by_name('user_type').click()
 		driver.find_element_by_id('create_account_btn').click()
 
-		driver.get("http://IP:PORT/login")
+		driver.get("http://"+IP+":"+PORT+"/login")
 		elem = driver.find_element_by_id("username")
 		elem.send_keys(user)
 		elem = driver.find_element_by_id("password")
@@ -59,7 +61,9 @@ class LoginCorrect(unittest.TestCase):
 		user = ''.join(random.SystemRandom().choice(string.ascii_uppercase + string.digits) for _ in range(6))
 		pwd=  ''.join(random.SystemRandom().choice(string.ascii_uppercase + string.digits) for _ in range(8))
 
-		driver.get("http://IP:PORT/login")
+
+		driver = self.driver
+		driver.get("http://"+IP+":"+PORT+"/login")
 		elem = driver.find_element_by_id("username")
 		elem.send_keys(user)
 		elem = driver.find_element_by_id("password")
@@ -70,18 +74,18 @@ class LoginCorrect(unittest.TestCase):
 
 		assert "login" in driver.current_url
 
-    def test_UI7_3(self):
-        driver = self.driver
-        driver.get("http://IP:PORT/login")
-        driver.find_element_by_id("sign_in").click()
-        alertmessage = self.driver.switch_to.alert.text
-        self.assertEqual("Enter All Information", alertmessage)
+	def test_UI7_3(self):
+		driver = self.driver
+		driver.get("http://"+IP+":"+PORT+"/login")
+		driver.find_element_by_id("sign_in_btn").click()
+		alertmessage = self.driver.switch_to.alert.text
+		self.assertEqual("Enter All Information", alertmessage)
 
 	def test_UI7_4(self):
 		
 		driver=self.driver
-		driver.get("http://IP:PORT/login")
-		element = driver.find_element_by_link_text("Sign in")
+		driver.get("http://"+IP+":"+PORT+"/login")
+		element = driver.find_element_by_link_text("Sign up")
 		driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
 		hover = ActionChains(driver).move_to_element(element).perform()
 		txtdec = element.value_of_css_property('text-decoration')
@@ -90,7 +94,7 @@ class LoginCorrect(unittest.TestCase):
 	def test_UI7_5(self):
 		
 		driver=self.driver
-		driver.get("http://IP:PORT/login") 
+		driver.get("http://"+IP+":"+PORT+"/login") 
 		driver.find_element_by_link_text('Sign up').click()
 		assert "register" in driver.current_url   
 

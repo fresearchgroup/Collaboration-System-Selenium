@@ -13,11 +13,13 @@ import random
 import string
 from decouple import config
 
+IP = config('IP_ADDRESS')
+PORT = config('PBLCLIENT_PORT')
+
 
 class LoginCorrect(unittest.TestCase):
 
-        IP = config('IP_ADDRESS')
-        PORT = config('PBLCLIENT_PORT')
+       
 
 	def setUp(self):
 
@@ -26,7 +28,7 @@ class LoginCorrect(unittest.TestCase):
 	   # self.driver = webdriver.Remote(command_executor='http://10.196.24.237:4444/wd/hub', desired_capabilities=DesiredCapabilities.FIREFOX) 
 	   self.driver = webdriver.Firefox() 
 	   self.driver.maximize_window()
-	   self.driver.get("http://IP:PORT/login")
+	   self.driver.get("http://"+IP+":"+PORT+"/login")
 	   elem = self.driver.find_element_by_id("username")
 	   elem.send_keys(user)
 	   elem = self.driver.find_element_by_id("password")
