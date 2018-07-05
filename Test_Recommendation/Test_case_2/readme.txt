@@ -15,6 +15,8 @@ article 1 from community 1 will get 10 views, article 2 will get 8 views, articl
 will get 2 views and the left wouldn't get any new views by user1 and similarly in
 community 2 by user 2. Now Login as user 3 and view articles 2,3 and 4 from
 community 1. Finally, train the model.
+The percentage of articles present in the recommendations list of test_user_3 should be more from the community 1 
+than the  community 2.
 
 ###################################
 
