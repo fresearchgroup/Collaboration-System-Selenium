@@ -2,8 +2,10 @@
 
 1. .env file:
 
+```
 IP_ADDRESS=localhost 
 PBLCLiENT_PORT=8001
+```
 
 2. Follow installation steps from the PBL project
 
