@@ -4678,3 +4678,778 @@ JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.m
 JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
 [Child 1118, Chrome_ChildThread] WARNING: pipe error (19): Connection reset by peer: file /build/firefox-d34xn2/firefox-60.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
 [Child 1118, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-d34xn2/firefox-60.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1530789778379	geckodriver	INFO	geckodriver 0.19.1
+1530789778406	geckodriver	INFO	Listening on 127.0.0.1:44035
+1530789779537	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.YiEpUBpvBhmR"
+1530789783639	Marionette	INFO	Listening on port 45519
+1530789783661	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1530789841599	geckodriver	INFO	geckodriver 0.19.1
+1530789841602	geckodriver	INFO	Listening on 127.0.0.1:43923
+1530789842714	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.ZHcOs0ShxQ1F"
+1530789846126	Marionette	INFO	Listening on port 42931
+1530789846226	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://localhost:8000/, line 574: ReferenceError: None is not defined
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://localhost:8000/login/?next=/, line 352: ReferenceError: None is not defined
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://localhost:8000/login/?next=/, line 352: ReferenceError: None is not defined
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://localhost:8000/communities/, line 346: ReferenceError: None is not defined
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1530789891837	geckodriver	INFO	geckodriver 0.19.1
+1530789891840	geckodriver	INFO	Listening on 127.0.0.1:47545
+1530789892947	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.d0UV2uJwon0L"
+1530789896270	Marionette	INFO	Listening on port 41529
+1530789896374	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://localhost:8000/, line 574: ReferenceError: None is not defined
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://localhost:8000/login/?next=/, line 352: ReferenceError: None is not defined
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://localhost:8000/login/?next=/, line 352: ReferenceError: None is not defined
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/js/jquery-3.2.1.min.js, line 4: TypeError: a.indexOf is not a function
+JavaScript error: http://localhost:8000/static/assets/corporate/scripts/layout.js, line 141: TypeError: $(...).size is not a function
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://localhost:8000/static/js/jquery-3.2.1.min.js, line 2: Error: Syntax error, unrecognized expression: #
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+[Child 9599, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-d34xn2/firefox-60.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 9599, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-d34xn2/firefox-60.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1530790276888	geckodriver	INFO	geckodriver 0.19.1
+1530790276892	geckodriver	INFO	Listening on 127.0.0.1:39611
+1530790278003	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.9ZWZiqGYzmuq"
+1530790281265	Marionette	INFO	Listening on port 41209
+1530790281317	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://localhost:8000/, line 574: ReferenceError: None is not defined
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://localhost:8000/login/?next=/, line 352: ReferenceError: None is not defined
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://localhost:8000/login/?next=/, line 352: ReferenceError: None is not defined
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/js/jquery-3.2.1.min.js, line 4: TypeError: a.indexOf is not a function
+JavaScript error: http://localhost:8000/static/js/jquery-3.2.1.min.js, line 2: Error: Syntax error, unrecognized expression: #
+JavaScript error: http://localhost:8000/static/assets/corporate/scripts/layout.js, line 141: TypeError: $(...).size is not a function
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+[Child 10339, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-d34xn2/firefox-60.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 10339, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-d34xn2/firefox-60.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1530790862730	geckodriver	INFO	geckodriver 0.19.1
+1530790862734	geckodriver	INFO	Listening on 127.0.0.1:56975
+1530790863855	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.KjA6n9oBh37A"
+1530790867517	Marionette	INFO	Listening on port 37979
+1530790867580	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://localhost:8000/, line 574: ReferenceError: None is not defined
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://localhost:8000/login/?next=/, line 352: ReferenceError: None is not defined
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://localhost:8000/login/?next=/, line 352: ReferenceError: None is not defined
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/js/jquery-3.2.1.min.js, line 4: TypeError: a.indexOf is not a function
+JavaScript error: http://localhost:8000/static/js/jquery-3.2.1.min.js, line 2: Error: Syntax error, unrecognized expression: #
+JavaScript error: http://localhost:8000/static/assets/corporate/scripts/layout.js, line 141: TypeError: $(...).size is not a function
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+[Child 11265, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-d34xn2/firefox-60.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 11265, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-d34xn2/firefox-60.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1530791151093	geckodriver	INFO	geckodriver 0.19.1
+1530791151097	geckodriver	INFO	Listening on 127.0.0.1:53189
+1530791152209	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.nvPUzU3PnswU"
+1530791155972	Marionette	INFO	Listening on port 42617
+1530791156022	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://localhost:8000/, line 574: ReferenceError: None is not defined
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://localhost:8000/login/?next=/, line 352: ReferenceError: None is not defined
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://localhost:8000/login/?next=/, line 352: ReferenceError: None is not defined
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/js/jquery-3.2.1.min.js, line 4: TypeError: a.indexOf is not a function
+JavaScript error: http://localhost:8000/static/assets/corporate/scripts/layout.js, line 141: TypeError: $(...).size is not a function
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://localhost:8000/static/js/jquery-3.2.1.min.js, line 2: Error: Syntax error, unrecognized expression: #
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+1530791227555	geckodriver	INFO	geckodriver 0.19.1
+1530791227559	geckodriver	INFO	Listening on 127.0.0.1:35169
+1530791228681	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.ZKKQ5nC39vqW"
+1530791232194	Marionette	INFO	Listening on port 42435
+1530791232291	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://localhost:8000/, line 574: ReferenceError: None is not defined
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://localhost:8000/login/?next=/, line 352: ReferenceError: None is not defined
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://localhost:8000/login/?next=/, line 352: ReferenceError: None is not defined
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/js/jquery-3.2.1.min.js, line 4: TypeError: a.indexOf is not a function
+JavaScript error: http://localhost:8000/static/js/jquery-3.2.1.min.js, line 2: Error: Syntax error, unrecognized expression: #
+JavaScript error: http://localhost:8000/static/assets/corporate/scripts/layout.js, line 141: TypeError: $(...).size is not a function
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+[Child 12315, Chrome_ChildThread] WARNING: pipe error (19): Connection reset by peer: file /build/firefox-d34xn2/firefox-60.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1530791401687	geckodriver	INFO	geckodriver 0.19.1
+1530791401692	geckodriver	INFO	Listening on 127.0.0.1:39533
+1530791402837	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.Z2qm6G1Hisvo"
+1530791406697	Marionette	INFO	Listening on port 44393
+1530791406778	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://localhost:8000/, line 574: ReferenceError: None is not defined
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://localhost:8000/login/?next=/, line 352: ReferenceError: None is not defined
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://localhost:8000/login/?next=/, line 352: ReferenceError: None is not defined
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1530805911382	geckodriver	INFO	geckodriver 0.19.1
+1530805911387	geckodriver	INFO	Listening on 127.0.0.1:52335
+1530805912501	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.aCdDD8pPk8JQ"
+1530805915984	Marionette	INFO	Listening on port 37167
+1530805916021	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://localhost:8000/, line 574: ReferenceError: None is not defined
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://localhost:8000/login/?next=/, line 352: ReferenceError: None is not defined
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://localhost:8000/login/?next=/, line 352: ReferenceError: None is not defined
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+[Child 14402, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-d34xn2/firefox-60.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 14402, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-d34xn2/firefox-60.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1530815438004	geckodriver	INFO	geckodriver 0.19.1
+1530815438042	geckodriver	INFO	Listening on 127.0.0.1:58841
+1530815439184	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.rXkaSo724vcn"
+1530815444394	Marionette	INFO	Listening on port 46737
+1530815444447	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://localhost:8000/, line 574: ReferenceError: None is not defined
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://localhost:8000/login/?next=/, line 352: ReferenceError: None is not defined
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://localhost:8000/login/?next=/, line 352: ReferenceError: None is not defined
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://localhost:8000/, line 574: ReferenceError: None is not defined
+1530815548477	geckodriver	INFO	geckodriver 0.19.1
+1530815548481	geckodriver	INFO	Listening on 127.0.0.1:50191
+1530815549597	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.T2O4kNLy6CN5"
+1530815553108	Marionette	INFO	Listening on port 33841
+1530815553208	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://localhost:8000/, line 574: ReferenceError: None is not defined
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://localhost:8000/login/?next=/, line 352: ReferenceError: None is not defined
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://localhost:8000/login/?next=/, line 352: ReferenceError: None is not defined
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+1530815846963	geckodriver	INFO	geckodriver 0.19.1
+1530815846966	geckodriver	INFO	Listening on 127.0.0.1:47907
+1530815848080	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.YoD22H3nMEH7"
+1530815851459	Marionette	INFO	Listening on port 39611
+1530815851512	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://localhost:8000/, line 574: ReferenceError: None is not defined
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://localhost:8000/login/?next=/, line 352: ReferenceError: None is not defined
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+[Child 8374, Chrome_ChildThread] WARNING: pipe error (19): Connection reset by peer: file /build/firefox-d34xn2/firefox-60.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 8374, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-d34xn2/firefox-60.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1530815991136	geckodriver	INFO	geckodriver 0.19.1
+1530815991139	geckodriver	INFO	Listening on 127.0.0.1:36887
+1530815992253	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.ollyzVNl6SrW"
+1530815995636	Marionette	INFO	Listening on port 35743
+1530815995686	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://localhost:8000/, line 574: ReferenceError: None is not defined
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://localhost:8000/login/?next=/, line 352: ReferenceError: None is not defined
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+[Child 8742, Chrome_ChildThread] WARNING: pipe error (19): Connection reset by peer: file /build/firefox-d34xn2/firefox-60.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 8742, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-d34xn2/firefox-60.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1530816180345	geckodriver	INFO	geckodriver 0.19.1
+1530816180348	geckodriver	INFO	Listening on 127.0.0.1:39225
+1530816181462	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.OK0lDiTeBdVw"
+1530816184926	Marionette	INFO	Listening on port 35797
+1530816184979	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://localhost:8000/, line 574: ReferenceError: None is not defined
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://localhost:8000/login/?next=/, line 352: ReferenceError: None is not defined
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://localhost:8000/login/?next=/, line 352: ReferenceError: None is not defined
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+1530816278810	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+1530816373291	geckodriver	INFO	geckodriver 0.19.1
+1530816373296	geckodriver	INFO	Listening on 127.0.0.1:35071
+1530816374446	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.nQISj9620xua"
+1530816378667	Marionette	INFO	Listening on port 39327
+1530816378759	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://localhost:8000/, line 574: ReferenceError: None is not defined
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://localhost:8000/login/?next=/, line 352: ReferenceError: None is not defined
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+[Child 9593, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-d34xn2/firefox-60.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 9593, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-d34xn2/firefox-60.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1530816614607	geckodriver	INFO	geckodriver 0.19.1
+1530816614610	geckodriver	INFO	Listening on 127.0.0.1:52977
+1530816615738	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.SLSKOeOXG0U0"
+1530816619381	Marionette	INFO	Listening on port 41909
+1530816619462	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://localhost:8000/, line 574: ReferenceError: None is not defined
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://localhost:8000/login/?next=/, line 352: ReferenceError: None is not defined
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/js/jquery-3.2.1.min.js, line 4: TypeError: a.indexOf is not a function
+JavaScript error: http://localhost:8000/static/assets/corporate/scripts/layout.js, line 141: TypeError: $(...).size is not a function
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://localhost:8000/static/js/jquery-3.2.1.min.js, line 2: Error: Syntax error, unrecognized expression: #
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+[Child 9963, Chrome_ChildThread] WARNING: pipe error (20): Connection reset by peer: file /build/firefox-d34xn2/firefox-60.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 9963, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-d34xn2/firefox-60.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1530817022545	geckodriver	INFO	geckodriver 0.19.1
+1530817022549	geckodriver	INFO	Listening on 127.0.0.1:59453
+1530817023655	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.0VhrcItnXghv"
+1530817027320	Marionette	INFO	Listening on port 43661
+1530817027372	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://localhost:8000/, line 574: ReferenceError: None is not defined
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://localhost:8000/login/?next=/, line 352: ReferenceError: None is not defined
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+[Child 10450, Chrome_ChildThread] WARNING: pipe error (19): Connection reset by peer: file /build/firefox-d34xn2/firefox-60.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 10450, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-d34xn2/firefox-60.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1530817380486	geckodriver	INFO	geckodriver 0.19.1
+1530817380490	geckodriver	INFO	Listening on 127.0.0.1:59507
+1530817381599	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.MajjBwIUj7Uo"
+1530817384923	Marionette	INFO	Listening on port 43759
+1530817385009	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 10937, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-d34xn2/firefox-60.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1530817515805	geckodriver	INFO	geckodriver 0.19.1
+1530817515809	geckodriver	INFO	Listening on 127.0.0.1:33093
+1530817516913	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.UL7Fx7jE11Az"
+1530817524884	geckodriver	INFO	geckodriver 0.19.1
+1530817524889	geckodriver	INFO	Listening on 127.0.0.1:47633
+1530817525992	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.UvGd9i3RBd5V"
+1530817529708	Marionette	INFO	Listening on port 38043
+1530817529803	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1530817610065	geckodriver	INFO	geckodriver 0.19.1
+1530817610068	geckodriver	INFO	Listening on 127.0.0.1:35459
+1530817611187	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.XMwQunLyJJ5d"
+1530817614501	Marionette	INFO	Listening on port 42441
+1530817614600	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://localhost:8000/, line 574: ReferenceError: None is not defined
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://localhost:8000/login/?next=/, line 352: ReferenceError: None is not defined
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+1530817750360	geckodriver	INFO	geckodriver 0.19.1
+1530817750364	geckodriver	INFO	Listening on 127.0.0.1:39473
+1530817751478	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.YHBZlqj79OZL"
+1530817754843	Marionette	INFO	Listening on port 33501
+1530817754891	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://localhost:8000/, line 574: ReferenceError: None is not defined
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://localhost:8000/login/?next=/, line 352: ReferenceError: None is not defined
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/js/jquery-3.2.1.min.js, line 4: TypeError: a.indexOf is not a function
+JavaScript error: http://localhost:8000/static/js/jquery-3.2.1.min.js, line 2: Error: Syntax error, unrecognized expression: #
+JavaScript error: http://localhost:8000/static/assets/corporate/scripts/layout.js, line 141: TypeError: $(...).size is not a function
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+1530818204533	geckodriver	INFO	geckodriver 0.19.1
+1530818204536	geckodriver	INFO	Listening on 127.0.0.1:34551
+1530818205647	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.yHOqOq0mZr3E"
+1530818209159	Marionette	INFO	Listening on port 35013
+1530818209168	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://localhost:8000/, line 574: ReferenceError: None is not defined
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://localhost:8000/login/?next=/, line 352: ReferenceError: None is not defined
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/js/jquery-3.2.1.min.js, line 4: TypeError: a.indexOf is not a function
+JavaScript error: http://localhost:8000/static/js/jquery-3.2.1.min.js, line 2: Error: Syntax error, unrecognized expression: #
+JavaScript error: http://localhost:8000/static/assets/corporate/scripts/layout.js, line 141: TypeError: $(...).size is not a function
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+1530818432377	geckodriver	INFO	geckodriver 0.19.1
+1530818432380	geckodriver	INFO	Listening on 127.0.0.1:40247
+1530818433513	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.U1v9KnruyXEa"
+1530818436971	Marionette	INFO	Listening on port 45503
+1530818437034	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://localhost:8000/, line 574: ReferenceError: None is not defined
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://localhost:8000/login/?next=/, line 352: ReferenceError: None is not defined
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+1530818628750	geckodriver	INFO	geckodriver 0.19.1
+1530818628755	geckodriver	INFO	Listening on 127.0.0.1:55633
+1530818629860	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.9vlhibptEz9f"
+1530818633336	Marionette	INFO	Listening on port 41599
+1530818633379	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 8: ReferenceError: Chart is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://localhost:8000/, line 574: ReferenceError: None is not defined
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://localhost:8000/login/?next=/, line 352: ReferenceError: None is not defined
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+1530818793251	geckodriver	INFO	geckodriver 0.19.1
+1530818793254	geckodriver	INFO	Listening on 127.0.0.1:52473
+1530818794368	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.rcfxdvtBMCSI"
+1530818797891	Marionette	INFO	Listening on port 44647
+1530818797984	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://localhost:8000/, line 574: ReferenceError: None is not defined
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://localhost:8000/login/?next=/, line 352: ReferenceError: None is not defined
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+[Child 13435, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-d34xn2/firefox-60.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 13435, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-d34xn2/firefox-60.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1530818919207	geckodriver	INFO	geckodriver 0.19.1
+1530818919210	geckodriver	INFO	Listening on 127.0.0.1:49669
+1530818920322	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.yyH8b0BL2D81"
+1530818923697	Marionette	INFO	Listening on port 33381
+1530818923733	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://localhost:8000/, line 574: ReferenceError: None is not defined
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://localhost:8000/login/?next=/, line 352: ReferenceError: None is not defined
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+[Child 13744, Chrome_ChildThread] WARNING: pipe error (19): Connection reset by peer: file /build/firefox-d34xn2/firefox-60.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 13744, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-d34xn2/firefox-60.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1530819120178	geckodriver	INFO	geckodriver 0.19.1
+1530819120181	geckodriver	INFO	Listening on 127.0.0.1:46031
+1530819121288	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.ROuhMgoBHzTV"
+1530819124902	Marionette	INFO	Listening on port 36459
+1530819125007	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://localhost:8000/, line 574: ReferenceError: None is not defined
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://localhost:8000/login/?next=/, line 352: ReferenceError: None is not defined
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+[Child 14167, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-d34xn2/firefox-60.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 14167, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-d34xn2/firefox-60.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1530819230900	geckodriver	INFO	geckodriver 0.19.1
+1530819230903	geckodriver	INFO	Listening on 127.0.0.1:44055
+1530819232015	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.NXPByCSuThAR"
+1530819235461	Marionette	INFO	Listening on port 41661
+1530819235536	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://localhost:8000/, line 574: ReferenceError: None is not defined
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://localhost:8000/login/?next=/, line 352: ReferenceError: None is not defined
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://localhost:8000/, line 574: ReferenceError: None is not defined
+[Child 14452, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-d34xn2/firefox-60.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 14452, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-d34xn2/firefox-60.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
