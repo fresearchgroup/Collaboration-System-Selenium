@@ -15,7 +15,7 @@ any error.
 
 ## `.env` Variables
 The requirements in the .env file:
-1. __ADDRESS__: This field is the ip address of the docker.
-2. __NAME__: This field is the username of any existing user in the system(prefered django admin).
-3. __PASSWORD__: This field is the password of above username.
-4. __DEPLOY_ADDRESS__: This field is the ip address of the Collaborative system (with ports).
+1. __RECOMMENDATION_SYSTEM_DOCKER_ADDRESS__: This field is the ip address of the docker.
+2. __RECOMMENDATION_SYSTEM_NAME__: This field is the username of any existing user in the system(prefered django admin).
+3. __RECOMMENDATION_SYSTEM_PASSWORD__: This field is the password of above username.
+4. __RECOMMENDATION_SYSTEM_DEPLOY_ADDRESS__: This field is the ip address of the Collaborative system (with ports).
