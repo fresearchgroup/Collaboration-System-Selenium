@@ -27,14 +27,15 @@ than the  community 2.
 
 ## `.env` Varialbles:
 
-1.  __ADDRESS.__ This field is the ip address of the docker.
-2.  __NAME.__ This field is the username of any existing user in the system(prefered django admin).
-3.  __PASSWORD.__ This field is the password of above username.
-4.  __DEPLOY_ADDRESS.__ This field is the ip address of the Collaborative system (with ports).
-5.  __DJANGO_ADMIN_NAME.__ This field is the username of django admin.
-6.  __DJANGO_ADMIN_PASSWORD.__ This field is the password of django admin.
-7.  __MINIMUM_RECOMMENDATION_PERCENTAGE.__ This field is set by tester which required, the minimum percentage of test community articles 1 in the recommendation of test user 3.( default: 60% )
-8. __IP.__ This field is the IP address of the system.
+1.  __RECOMMENDATION_SYSTEM_DOCKER_ADDRESS.__ This field is the ip address of the docker.
+2.  __RECOMMENDATION_SYSTEM_NAME.__ This field is the username of any existing user in the system(prefered django admin).
+3.  __RECOMMENDATION_SYSTEM_PASSWORD.__ This field is the password of above username.
+4.  __RECOMMENDATION_SYSTEM_DEPLOY_ADDRESS.__ This field is the ip address of the Collaborative system (with ports).
+5.  __RECOMMENDATION_SYSTEM_DJANGO_ADMIN_NAME.__ This field is the username of django admin.
+6.  __RECOMMENDATION_SYSTEM_DJANGO_ADMIN_PASSWORD.__ This field is the password of django admin.
+7.  __RECOMMENDATION_SYSTEM_MINIMUM_RECOMMENDATION_PERCENTAGE.__ This field is set by tester which required, the minimum percentage of test community articles 1 in the recommendation of test user 3.( default: 60% )
+8. __RECOMMENDATION_SYSTEM_WEB_IP.__ This field is the IP address of the system.
+9. __RECOMMENDATION_SYSTEM_WEB_PORT.__ This field is the IP address-port of the system.
 
 
 ## Warning
