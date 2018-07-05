@@ -1,0 +1,1445 @@
+1529645598337	geckodriver	INFO	geckodriver 0.21.0
+1529645598341	geckodriver	INFO	Listening on 127.0.0.1:52437
+1529645599372	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.YdzKmWC9GLPh"
+1529645600526	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1529645600526	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1529645600526	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1529645600544	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1529645600544	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1529645600544	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1529645600966	Marionette	INFO	Enabled via --marionette
+1529645601070	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1529645601070	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1529645601072	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1529645601072	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1529645601074	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1529645601074	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1529645601188	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1529645601188	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1529645603370	Marionette	INFO	Listening on port 34017
+1529645603420	Marionette	WARN	TLS certificate errors will be ignored for this session
+1529645690118	geckodriver	INFO	geckodriver 0.21.0
+1529645690123	geckodriver	INFO	Listening on 127.0.0.1:47179
+1529645691124	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.KgJm4dTkEuoO"
+1529645691784	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1529645691784	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1529645691784	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1529645691802	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1529645691802	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1529645691802	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1529645691942	Marionette	INFO	Enabled via --marionette
+1529645692044	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1529645692044	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1529645692044	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1529645692044	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1529645692046	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1529645692046	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1529645692114	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1529645692116	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1529645693606	Marionette	INFO	Listening on port 34419
+1529645693674	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://127.0.0.1:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://127.0.0.1:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://127.0.0.1:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://127.0.0.1:8000/, line 470: ReferenceError: None is not defined
+JavaScript error: http://127.0.0.1:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://127.0.0.1:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://127.0.0.1:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://127.0.0.1:8000/login/?next=/, line 347: ReferenceError: None is not defined
+JavaScript error: http://127.0.0.1:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://127.0.0.1:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://127.0.0.1:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://127.0.0.1:8000/login/?next=/, line 357: ReferenceError: None is not defined
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1529645788106	geckodriver	INFO	geckodriver 0.21.0
+1529645788110	geckodriver	INFO	Listening on 127.0.0.1:51543
+1529645789119	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.E5D2d0MjY0fu"
+1529645789576	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1529645789576	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1529645789576	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1529645789588	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1529645789588	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1529645789588	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1529645789720	Marionette	INFO	Enabled via --marionette
+1529645789766	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1529645789766	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1529645789768	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1529645789768	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1529645789770	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1529645789770	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1529645789848	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1529645789848	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1529645791088	Marionette	INFO	Listening on port 39043
+1529645791164	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://127.0.0.1:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://127.0.0.1:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://127.0.0.1:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://127.0.0.1:8000/, line 470: ReferenceError: None is not defined
+JavaScript error: resource://devtools/client/jsonview/converter-observer.js, line 76: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIChannel.contentType]
+JavaScript error: http://127.0.0.1:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://127.0.0.1:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://127.0.0.1:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://127.0.0.1:8000/login/?next=/, line 347: ReferenceError: None is not defined
+JavaScript error: http://127.0.0.1:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://127.0.0.1:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://127.0.0.1:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://127.0.0.1:8000/login/?next=/, line 357: ReferenceError: None is not defined
+[Parent 4280, Gecko_IOThread] WARNING: pipe error (94): Connection reset by peer: file /build/firefox-ikZgcS/firefox-59.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1529646580976	geckodriver	INFO	geckodriver 0.21.0
+1529646580981	geckodriver	INFO	Listening on 127.0.0.1:43427
+1529646581989	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.uXhJPI667UbF"
+1529646582428	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1529646582428	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1529646582428	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1529646582440	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1529646582440	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1529646582442	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1529646582576	Marionette	INFO	Enabled via --marionette
+1529646582620	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1529646582620	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1529646582620	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1529646582620	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1529646582622	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1529646582622	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1529646582678	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1529646582678	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1529646584072	Marionette	INFO	Listening on port 33793
+1529646584114	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://127.0.0.1:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://127.0.0.1:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://127.0.0.1:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://127.0.0.1:8000/, line 470: ReferenceError: None is not defined
+JavaScript error: http://127.0.0.1:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://127.0.0.1:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://127.0.0.1:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://127.0.0.1:8000/login/?next=/, line 347: ReferenceError: None is not defined
+JavaScript error: http://127.0.0.1:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://127.0.0.1:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://127.0.0.1:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://127.0.0.1:8000/login/?next=/, line 357: ReferenceError: None is not defined
+1529660886656	geckodriver	INFO	geckodriver 0.21.0
+1529660886746	geckodriver	INFO	Listening on 127.0.0.1:35697
+1529660887664	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.sNnfOTXLZPn3"
+1529660888544	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1529660888544	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1529660888544	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1529660888604	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1529660888604	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1529660888604	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1529660888806	Marionette	INFO	Enabled via --marionette
+1529660888872	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1529660888872	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1529660888872	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1529660888872	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1529660888874	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1529660888874	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1529660889000	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1529660889000	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1529660890868	Marionette	INFO	Listening on port 46119
+1529660890926	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://127.0.0.1:8000/static/js/scriptMyContrib.js, line 8: ReferenceError: Chart is not defined
+JavaScript error: http://127.0.0.1:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://127.0.0.1:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: https://platform.twitter.com/widgets/widget_iframe.c5b006ac082bc92aa829181b9ce63af1.html?origin=http%3A%2F%2F127.0.0.1%3A8000&settingsEndpoint=https%3A%2F%2Fsyndication.twitter.com%2Fsettings, line 12: Error: Network error.
+JavaScript error: http://127.0.0.1:8000/, line 488: ReferenceError: None is not defined
+JavaScript error: http://127.0.0.1:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://127.0.0.1:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://127.0.0.1:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://127.0.0.1:8000/login/?next=/, line 347: ReferenceError: None is not defined
+JavaScript error: http://127.0.0.1:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://127.0.0.1:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://127.0.0.1:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://127.0.0.1:8000/login/?next=/, line 357: ReferenceError: None is not defined
+1529663314244	geckodriver	INFO	geckodriver 0.21.0
+1529663314249	geckodriver	INFO	Listening on 127.0.0.1:46125
+1529663315258	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.IKdJJhL974kk"
+1529663315728	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1529663315728	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1529663315728	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1529663315746	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1529663315746	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1529663315746	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1529663315896	Marionette	INFO	Enabled via --marionette
+1529663315942	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1529663315944	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1529663315946	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1529663315946	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1529663315948	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1529663315948	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1529663315998	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1529663315998	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1529663317590	Marionette	INFO	Listening on port 35283
+1529663317722	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://127.0.0.1:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://127.0.0.1:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://127.0.0.1:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://127.0.0.1:8000/, line 1: TypeError: document.location.history is undefined
+JavaScript error: http://127.0.0.1:8000/, line 490: ReferenceError: None is not defined
+JavaScript error: http://127.0.0.1:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://127.0.0.1:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://127.0.0.1:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://127.0.0.1:8000/login/?next=/, line 1: TypeError: document.location.history is undefined
+JavaScript error: http://127.0.0.1:8000/login/?next=/, line 349: ReferenceError: None is not defined
+JavaScript error: http://127.0.0.1:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://127.0.0.1:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://127.0.0.1:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://127.0.0.1:8000/login/?next=/, line 1: TypeError: document.location.history is undefined
+JavaScript error: http://127.0.0.1:8000/login/?next=/, line 359: ReferenceError: None is not defined
+1529943612450	geckodriver	INFO	geckodriver 0.21.0
+1529943612562	geckodriver	INFO	Listening on 127.0.0.1:45389
+1529943613435	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.x6gWjVFPFytl"
+1529943616976	Marionette	INFO	Listening on port 42451
+1529943617061	Marionette	WARN	TLS certificate errors will be ignored for this session
+1529943618442	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/SnippetsFeed.jsm :: uninit :: line 185"  data: no] Stack trace: uninit()@resource://activity-stream/lib/SnippetsFeed.jsm:185
+onAction()@resource://activity-stream/lib/SnippetsFeed.jsm:201
+_middleware/</<()@resource://activity-stream/lib/Store.jsm:49
+Store/this[method]()@resource://activity-stream/lib/Store.jsm:28
+uninit()@resource://activity-stream/lib/Store.jsm:151
+uninit()@resource://activity-stream/lib/ActivityStream.jsm:300
+uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:73
+shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:169
+callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4436
+observe()@resource://gre/modules/addons/XPIProvider.jsm:2287
+GeckoDriver.prototype.quit()@driver.js:3300
+despatch()@server.js:293
+execute()@server.js:267
+onPacket/<()@server.js:242
+onPacket()@server.js:241
+_onJSONObjectReady/<()@transport.js:500
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1529943725690	geckodriver	INFO	geckodriver 0.21.0
+1529943725694	geckodriver	INFO	Listening on 127.0.0.1:54081
+1529943726702	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.EsMiCvOUkMxh"
+1529943728731	Marionette	INFO	Listening on port 44851
+1529943728816	Marionette	WARN	TLS certificate errors will be ignored for this session
+1529943729968	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/SnippetsFeed.jsm :: uninit :: line 185"  data: no] Stack trace: uninit()@resource://activity-stream/lib/SnippetsFeed.jsm:185
+onAction()@resource://activity-stream/lib/SnippetsFeed.jsm:201
+_middleware/</<()@resource://activity-stream/lib/Store.jsm:49
+Store/this[method]()@resource://activity-stream/lib/Store.jsm:28
+uninit()@resource://activity-stream/lib/Store.jsm:151
+uninit()@resource://activity-stream/lib/ActivityStream.jsm:300
+uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:73
+shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:169
+callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4436
+observe()@resource://gre/modules/addons/XPIProvider.jsm:2287
+GeckoDriver.prototype.quit()@driver.js:3300
+despatch()@server.js:293
+execute()@server.js:267
+onPacket/<()@server.js:242
+onPacket()@server.js:241
+_onJSONObjectReady/<()@transport.js:500
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1529944208144	geckodriver	INFO	geckodriver 0.21.0
+1529944208149	geckodriver	INFO	Listening on 127.0.0.1:45273
+1529944209155	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.lPVv5N918tf1"
+1529944211215	Marionette	INFO	Listening on port 38821
+1529944211270	Marionette	WARN	TLS certificate errors will be ignored for this session
+1529944212267	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/SnippetsFeed.jsm :: uninit :: line 185"  data: no] Stack trace: uninit()@resource://activity-stream/lib/SnippetsFeed.jsm:185
+onAction()@resource://activity-stream/lib/SnippetsFeed.jsm:201
+_middleware/</<()@resource://activity-stream/lib/Store.jsm:49
+Store/this[method]()@resource://activity-stream/lib/Store.jsm:28
+uninit()@resource://activity-stream/lib/Store.jsm:151
+uninit()@resource://activity-stream/lib/ActivityStream.jsm:300
+uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:73
+shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:169
+callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4436
+observe()@resource://gre/modules/addons/XPIProvider.jsm:2287
+GeckoDriver.prototype.quit()@driver.js:3300
+despatch()@server.js:293
+execute()@server.js:267
+onPacket/<()@server.js:242
+onPacket()@server.js:241
+_onJSONObjectReady/<()@transport.js:500
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1529944245524	geckodriver	INFO	geckodriver 0.21.0
+1529944245528	geckodriver	INFO	Listening on 127.0.0.1:41395
+1529944246536	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.faictfyP5iyj"
+1529944248685	Marionette	INFO	Listening on port 39433
+1529944248757	Marionette	WARN	TLS certificate errors will be ignored for this session
+1529944249583	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/SnippetsFeed.jsm :: uninit :: line 185"  data: no] Stack trace: uninit()@resource://activity-stream/lib/SnippetsFeed.jsm:185
+onAction()@resource://activity-stream/lib/SnippetsFeed.jsm:201
+_middleware/</<()@resource://activity-stream/lib/Store.jsm:49
+Store/this[method]()@resource://activity-stream/lib/Store.jsm:28
+uninit()@resource://activity-stream/lib/Store.jsm:151
+uninit()@resource://activity-stream/lib/ActivityStream.jsm:300
+uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:73
+shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:169
+callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4436
+observe()@resource://gre/modules/addons/XPIProvider.jsm:2287
+GeckoDriver.prototype.quit()@driver.js:3300
+despatch()@server.js:293
+execute()@server.js:267
+onPacket/<()@server.js:242
+onPacket()@server.js:241
+_onJSONObjectReady/<()@transport.js:500
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1529944302843	geckodriver	INFO	geckodriver 0.21.0
+1529944302847	geckodriver	INFO	Listening on 127.0.0.1:46687
+1529944303858	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.sdcWlYW41rei"
+1529944305886	Marionette	INFO	Listening on port 35723
+1529944305973	Marionette	WARN	TLS certificate errors will be ignored for this session
+1529944306903	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/SnippetsFeed.jsm :: uninit :: line 185"  data: no] Stack trace: uninit()@resource://activity-stream/lib/SnippetsFeed.jsm:185
+onAction()@resource://activity-stream/lib/SnippetsFeed.jsm:201
+_middleware/</<()@resource://activity-stream/lib/Store.jsm:49
+Store/this[method]()@resource://activity-stream/lib/Store.jsm:28
+uninit()@resource://activity-stream/lib/Store.jsm:151
+uninit()@resource://activity-stream/lib/ActivityStream.jsm:300
+uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:73
+shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:169
+callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4436
+observe()@resource://gre/modules/addons/XPIProvider.jsm:2287
+GeckoDriver.prototype.quit()@driver.js:3300
+despatch()@server.js:293
+execute()@server.js:267
+onPacket/<()@server.js:242
+onPacket()@server.js:241
+_onJSONObjectReady/<()@transport.js:500
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1529944347876	geckodriver	INFO	geckodriver 0.21.0
+1529944347882	geckodriver	INFO	Listening on 127.0.0.1:35423
+1529944348884	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.bQPXVmMqYSCX"
+1529944351145	Marionette	INFO	Listening on port 43969
+1529944351225	Marionette	WARN	TLS certificate errors will be ignored for this session
+1529944352402	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/SnippetsFeed.jsm :: uninit :: line 185"  data: no] Stack trace: uninit()@resource://activity-stream/lib/SnippetsFeed.jsm:185
+onAction()@resource://activity-stream/lib/SnippetsFeed.jsm:201
+_middleware/</<()@resource://activity-stream/lib/Store.jsm:49
+Store/this[method]()@resource://activity-stream/lib/Store.jsm:28
+uninit()@resource://activity-stream/lib/Store.jsm:151
+uninit()@resource://activity-stream/lib/ActivityStream.jsm:300
+uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:73
+shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:169
+callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4436
+observe()@resource://gre/modules/addons/XPIProvider.jsm:2287
+GeckoDriver.prototype.quit()@driver.js:3300
+despatch()@server.js:293
+execute()@server.js:267
+onPacket/<()@server.js:242
+onPacket()@server.js:241
+_onJSONObjectReady/<()@transport.js:500
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1529944384696	geckodriver	INFO	geckodriver 0.21.0
+1529944384702	geckodriver	INFO	Listening on 127.0.0.1:43431
+1529944385709	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.MNMynKmqNhIT"
+1529944387907	Marionette	INFO	Listening on port 41917
+1529944387948	Marionette	WARN	TLS certificate errors will be ignored for this session
+1529944389281	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/SnippetsFeed.jsm :: uninit :: line 185"  data: no] Stack trace: uninit()@resource://activity-stream/lib/SnippetsFeed.jsm:185
+onAction()@resource://activity-stream/lib/SnippetsFeed.jsm:201
+_middleware/</<()@resource://activity-stream/lib/Store.jsm:49
+Store/this[method]()@resource://activity-stream/lib/Store.jsm:28
+uninit()@resource://activity-stream/lib/Store.jsm:151
+uninit()@resource://activity-stream/lib/ActivityStream.jsm:300
+uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:73
+shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:169
+callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4436
+observe()@resource://gre/modules/addons/XPIProvider.jsm:2287
+GeckoDriver.prototype.quit()@driver.js:3300
+despatch()@server.js:293
+execute()@server.js:267
+onPacket/<()@server.js:242
+onPacket()@server.js:241
+_onJSONObjectReady/<()@transport.js:500
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1529944451016	geckodriver	INFO	geckodriver 0.21.0
+1529944451021	geckodriver	INFO	Listening on 127.0.0.1:33715
+1529944452036	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.VaQzgFjz9pkR"
+1529944453941	Marionette	INFO	Listening on port 43737
+1529944453965	Marionette	WARN	TLS certificate errors will be ignored for this session
+1529944454888	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/SnippetsFeed.jsm :: uninit :: line 185"  data: no] Stack trace: uninit()@resource://activity-stream/lib/SnippetsFeed.jsm:185
+onAction()@resource://activity-stream/lib/SnippetsFeed.jsm:201
+_middleware/</<()@resource://activity-stream/lib/Store.jsm:49
+Store/this[method]()@resource://activity-stream/lib/Store.jsm:28
+uninit()@resource://activity-stream/lib/Store.jsm:151
+uninit()@resource://activity-stream/lib/ActivityStream.jsm:300
+uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:73
+shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:169
+callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4436
+observe()@resource://gre/modules/addons/XPIProvider.jsm:2287
+GeckoDriver.prototype.quit()@driver.js:3300
+despatch()@server.js:293
+execute()@server.js:267
+onPacket/<()@server.js:242
+onPacket()@server.js:241
+_onJSONObjectReady/<()@transport.js:500
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1529952670420	geckodriver	INFO	geckodriver 0.21.0
+1529952670471	geckodriver	INFO	Listening on 127.0.0.1:48781
+1529952671401	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.76Fe4iNDc7f0"
+1529952674791	Marionette	INFO	Listening on port 38835
+1529952674850	Marionette	WARN	TLS certificate errors will be ignored for this session
+1529952676379	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/SnippetsFeed.jsm :: uninit :: line 185"  data: no] Stack trace: uninit()@resource://activity-stream/lib/SnippetsFeed.jsm:185
+onAction()@resource://activity-stream/lib/SnippetsFeed.jsm:201
+_middleware/</<()@resource://activity-stream/lib/Store.jsm:49
+Store/this[method]()@resource://activity-stream/lib/Store.jsm:28
+uninit()@resource://activity-stream/lib/Store.jsm:151
+uninit()@resource://activity-stream/lib/ActivityStream.jsm:300
+uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:73
+shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:169
+callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4436
+observe()@resource://gre/modules/addons/XPIProvider.jsm:2287
+GeckoDriver.prototype.quit()@driver.js:3300
+despatch()@server.js:293
+execute()@server.js:267
+onPacket/<()@server.js:242
+onPacket()@server.js:241
+_onJSONObjectReady/<()@transport.js:500
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1529952722267	geckodriver	INFO	geckodriver 0.21.0
+1529952722271	geckodriver	INFO	Listening on 127.0.0.1:54715
+1529952723274	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.8qt9JxccGf6W"
+1529952725383	Marionette	INFO	Listening on port 45899
+1529952725400	Marionette	WARN	TLS certificate errors will be ignored for this session
+1529952726560	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/SnippetsFeed.jsm :: uninit :: line 185"  data: no] Stack trace: uninit()@resource://activity-stream/lib/SnippetsFeed.jsm:185
+onAction()@resource://activity-stream/lib/SnippetsFeed.jsm:201
+_middleware/</<()@resource://activity-stream/lib/Store.jsm:49
+Store/this[method]()@resource://activity-stream/lib/Store.jsm:28
+uninit()@resource://activity-stream/lib/Store.jsm:151
+uninit()@resource://activity-stream/lib/ActivityStream.jsm:300
+uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:73
+shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:169
+callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4436
+observe()@resource://gre/modules/addons/XPIProvider.jsm:2287
+GeckoDriver.prototype.quit()@driver.js:3300
+despatch()@server.js:293
+execute()@server.js:267
+onPacket/<()@server.js:242
+onPacket()@server.js:241
+_onJSONObjectReady/<()@transport.js:500
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1529993377664	geckodriver	INFO	geckodriver 0.21.0
+1529993377734	geckodriver	INFO	Listening on 127.0.0.1:58969
+1529993378638	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.RCFUZpNrU6Bb"
+1529993382279	Marionette	INFO	Listening on port 35863
+1529993382396	Marionette	WARN	TLS certificate errors will be ignored for this session
+1529993384234	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/SnippetsFeed.jsm :: uninit :: line 185"  data: no] Stack trace: uninit()@resource://activity-stream/lib/SnippetsFeed.jsm:185
+onAction()@resource://activity-stream/lib/SnippetsFeed.jsm:201
+_middleware/</<()@resource://activity-stream/lib/Store.jsm:49
+Store/this[method]()@resource://activity-stream/lib/Store.jsm:28
+uninit()@resource://activity-stream/lib/Store.jsm:151
+uninit()@resource://activity-stream/lib/ActivityStream.jsm:300
+uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:73
+shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:169
+callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4436
+observe()@resource://gre/modules/addons/XPIProvider.jsm:2287
+GeckoDriver.prototype.quit()@driver.js:3300
+despatch()@server.js:293
+execute()@server.js:267
+onPacket/<()@server.js:242
+onPacket()@server.js:241
+_onJSONObjectReady/<()@transport.js:500
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1530004152985	geckodriver	INFO	geckodriver 0.21.0
+1530004153043	geckodriver	INFO	Listening on 127.0.0.1:37523
+1530004153979	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.3PAQw9yn9Vhf"
+1530004157486	Marionette	INFO	Listening on port 40011
+1530004157524	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530004158720	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/SnippetsFeed.jsm :: uninit :: line 185"  data: no] Stack trace: uninit()@resource://activity-stream/lib/SnippetsFeed.jsm:185
+onAction()@resource://activity-stream/lib/SnippetsFeed.jsm:201
+_middleware/</<()@resource://activity-stream/lib/Store.jsm:49
+Store/this[method]()@resource://activity-stream/lib/Store.jsm:28
+uninit()@resource://activity-stream/lib/Store.jsm:151
+uninit()@resource://activity-stream/lib/ActivityStream.jsm:300
+uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:73
+shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:169
+callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4436
+observe()@resource://gre/modules/addons/XPIProvider.jsm:2287
+GeckoDriver.prototype.quit()@driver.js:3300
+despatch()@server.js:293
+execute()@server.js:267
+onPacket/<()@server.js:242
+onPacket()@server.js:241
+_onJSONObjectReady/<()@transport.js:500
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1530004430259	geckodriver	INFO	geckodriver 0.21.0
+1530004430263	geckodriver	INFO	Listening on 127.0.0.1:33499
+1530004431270	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.3R8OjhubbMw7"
+1530004433379	Marionette	INFO	Listening on port 34429
+1530004433404	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530004434692	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/SnippetsFeed.jsm :: uninit :: line 185"  data: no] Stack trace: uninit()@resource://activity-stream/lib/SnippetsFeed.jsm:185
+onAction()@resource://activity-stream/lib/SnippetsFeed.jsm:201
+_middleware/</<()@resource://activity-stream/lib/Store.jsm:49
+Store/this[method]()@resource://activity-stream/lib/Store.jsm:28
+uninit()@resource://activity-stream/lib/Store.jsm:151
+uninit()@resource://activity-stream/lib/ActivityStream.jsm:300
+uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:73
+shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:169
+callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4436
+observe()@resource://gre/modules/addons/XPIProvider.jsm:2287
+GeckoDriver.prototype.quit()@driver.js:3300
+despatch()@server.js:293
+execute()@server.js:267
+onPacket/<()@server.js:242
+onPacket()@server.js:241
+_onJSONObjectReady/<()@transport.js:500
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1530004525764	geckodriver	INFO	geckodriver 0.21.0
+1530004525768	geckodriver	INFO	Listening on 127.0.0.1:33099
+1530004526773	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.b6bUAy69cCK7"
+1530004528789	Marionette	INFO	Listening on port 36065
+1530004528896	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530004530055	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/SnippetsFeed.jsm :: uninit :: line 185"  data: no] Stack trace: uninit()@resource://activity-stream/lib/SnippetsFeed.jsm:185
+onAction()@resource://activity-stream/lib/SnippetsFeed.jsm:201
+_middleware/</<()@resource://activity-stream/lib/Store.jsm:49
+Store/this[method]()@resource://activity-stream/lib/Store.jsm:28
+uninit()@resource://activity-stream/lib/Store.jsm:151
+uninit()@resource://activity-stream/lib/ActivityStream.jsm:300
+uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:73
+shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:169
+callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4436
+observe()@resource://gre/modules/addons/XPIProvider.jsm:2287
+GeckoDriver.prototype.quit()@driver.js:3300
+despatch()@server.js:293
+execute()@server.js:267
+onPacket/<()@server.js:242
+onPacket()@server.js:241
+_onJSONObjectReady/<()@transport.js:500
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1530004544330	geckodriver	INFO	geckodriver 0.21.0
+1530004544335	geckodriver	INFO	Listening on 127.0.0.1:33881
+1530004545342	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.rA36i38B6PrK"
+1530004547625	Marionette	INFO	Listening on port 41403
+1530004547692	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530004548615	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/SnippetsFeed.jsm :: uninit :: line 185"  data: no] Stack trace: uninit()@resource://activity-stream/lib/SnippetsFeed.jsm:185
+onAction()@resource://activity-stream/lib/SnippetsFeed.jsm:201
+_middleware/</<()@resource://activity-stream/lib/Store.jsm:49
+Store/this[method]()@resource://activity-stream/lib/Store.jsm:28
+uninit()@resource://activity-stream/lib/Store.jsm:151
+uninit()@resource://activity-stream/lib/ActivityStream.jsm:300
+uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:73
+shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:169
+callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4436
+observe()@resource://gre/modules/addons/XPIProvider.jsm:2287
+GeckoDriver.prototype.quit()@driver.js:3300
+despatch()@server.js:293
+execute()@server.js:267
+onPacket/<()@server.js:242
+onPacket()@server.js:241
+_onJSONObjectReady/<()@transport.js:500
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1530004664465	geckodriver	INFO	geckodriver 0.21.0
+1530004664469	geckodriver	INFO	Listening on 127.0.0.1:51949
+1530004665472	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.FQA7NeYWCRiK"
+1530004667473	Marionette	INFO	Listening on port 34491
+1530004667512	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530004668498	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/SnippetsFeed.jsm :: uninit :: line 185"  data: no] Stack trace: uninit()@resource://activity-stream/lib/SnippetsFeed.jsm:185
+onAction()@resource://activity-stream/lib/SnippetsFeed.jsm:201
+_middleware/</<()@resource://activity-stream/lib/Store.jsm:49
+Store/this[method]()@resource://activity-stream/lib/Store.jsm:28
+uninit()@resource://activity-stream/lib/Store.jsm:151
+uninit()@resource://activity-stream/lib/ActivityStream.jsm:300
+uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:73
+shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:169
+callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4436
+observe()@resource://gre/modules/addons/XPIProvider.jsm:2287
+GeckoDriver.prototype.quit()@driver.js:3300
+despatch()@server.js:293
+execute()@server.js:267
+onPacket/<()@server.js:242
+onPacket()@server.js:241
+_onJSONObjectReady/<()@transport.js:500
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1530004750968	geckodriver	INFO	geckodriver 0.21.0
+1530004750975	geckodriver	INFO	Listening on 127.0.0.1:35607
+1530004751980	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.azEEYuqeIMAJ"
+1530004754052	Marionette	INFO	Listening on port 35683
+1530004754101	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530004755126	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/SnippetsFeed.jsm :: uninit :: line 185"  data: no] Stack trace: uninit()@resource://activity-stream/lib/SnippetsFeed.jsm:185
+onAction()@resource://activity-stream/lib/SnippetsFeed.jsm:201
+_middleware/</<()@resource://activity-stream/lib/Store.jsm:49
+Store/this[method]()@resource://activity-stream/lib/Store.jsm:28
+uninit()@resource://activity-stream/lib/Store.jsm:151
+uninit()@resource://activity-stream/lib/ActivityStream.jsm:300
+uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:73
+shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:169
+callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4436
+observe()@resource://gre/modules/addons/XPIProvider.jsm:2287
+GeckoDriver.prototype.quit()@driver.js:3300
+despatch()@server.js:293
+execute()@server.js:267
+onPacket/<()@server.js:242
+onPacket()@server.js:241
+_onJSONObjectReady/<()@transport.js:500
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1530004868964	geckodriver	INFO	geckodriver 0.21.0
+1530004868969	geckodriver	INFO	Listening on 127.0.0.1:45489
+1530004869977	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.YTSaXDSzendZ"
+1530004872102	Marionette	INFO	Listening on port 41463
+1530004872230	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530004873723	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/SnippetsFeed.jsm :: uninit :: line 185"  data: no] Stack trace: uninit()@resource://activity-stream/lib/SnippetsFeed.jsm:185
+onAction()@resource://activity-stream/lib/SnippetsFeed.jsm:201
+_middleware/</<()@resource://activity-stream/lib/Store.jsm:49
+Store/this[method]()@resource://activity-stream/lib/Store.jsm:28
+uninit()@resource://activity-stream/lib/Store.jsm:151
+uninit()@resource://activity-stream/lib/ActivityStream.jsm:300
+uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:73
+shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:169
+callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4436
+observe()@resource://gre/modules/addons/XPIProvider.jsm:2287
+GeckoDriver.prototype.quit()@driver.js:3300
+despatch()@server.js:293
+execute()@server.js:267
+onPacket/<()@server.js:242
+onPacket()@server.js:241
+_onJSONObjectReady/<()@transport.js:500
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1530005009955	geckodriver	INFO	geckodriver 0.21.0
+1530005009960	geckodriver	INFO	Listening on 127.0.0.1:38159
+1530005010962	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.XW5binQ9PKLG"
+1530005012773	Marionette	INFO	Listening on port 36289
+1530005012795	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530005013679	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/SnippetsFeed.jsm :: uninit :: line 185"  data: no] Stack trace: uninit()@resource://activity-stream/lib/SnippetsFeed.jsm:185
+onAction()@resource://activity-stream/lib/SnippetsFeed.jsm:201
+_middleware/</<()@resource://activity-stream/lib/Store.jsm:49
+Store/this[method]()@resource://activity-stream/lib/Store.jsm:28
+uninit()@resource://activity-stream/lib/Store.jsm:151
+uninit()@resource://activity-stream/lib/ActivityStream.jsm:300
+uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:73
+shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:169
+callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4436
+observe()@resource://gre/modules/addons/XPIProvider.jsm:2287
+GeckoDriver.prototype.quit()@driver.js:3300
+despatch()@server.js:293
+execute()@server.js:267
+onPacket/<()@server.js:242
+onPacket()@server.js:241
+_onJSONObjectReady/<()@transport.js:500
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1530005123006	geckodriver	INFO	geckodriver 0.21.0
+1530005123010	geckodriver	INFO	Listening on 127.0.0.1:49625
+1530005124018	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.8EMZ6DmS2Erw"
+1530005128661	Marionette	INFO	Listening on port 36155
+1530005128843	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530005129801	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/SnippetsFeed.jsm :: uninit :: line 185"  data: no] Stack trace: uninit()@resource://activity-stream/lib/SnippetsFeed.jsm:185
+onAction()@resource://activity-stream/lib/SnippetsFeed.jsm:201
+_middleware/</<()@resource://activity-stream/lib/Store.jsm:49
+Store/this[method]()@resource://activity-stream/lib/Store.jsm:28
+uninit()@resource://activity-stream/lib/Store.jsm:151
+uninit()@resource://activity-stream/lib/ActivityStream.jsm:300
+uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:73
+shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:169
+callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4436
+observe()@resource://gre/modules/addons/XPIProvider.jsm:2287
+GeckoDriver.prototype.quit()@driver.js:3300
+despatch()@server.js:293
+execute()@server.js:267
+onPacket/<()@server.js:242
+onPacket()@server.js:241
+_onJSONObjectReady/<()@transport.js:500
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1530005205768	geckodriver	INFO	geckodriver 0.21.0
+1530005205774	geckodriver	INFO	Listening on 127.0.0.1:45365
+1530005206779	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.BHefIRX0uH6v"
+1530005208635	Marionette	INFO	Listening on port 33815
+1530005208711	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530005209641	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/SnippetsFeed.jsm :: uninit :: line 185"  data: no] Stack trace: uninit()@resource://activity-stream/lib/SnippetsFeed.jsm:185
+onAction()@resource://activity-stream/lib/SnippetsFeed.jsm:201
+_middleware/</<()@resource://activity-stream/lib/Store.jsm:49
+Store/this[method]()@resource://activity-stream/lib/Store.jsm:28
+uninit()@resource://activity-stream/lib/Store.jsm:151
+uninit()@resource://activity-stream/lib/ActivityStream.jsm:300
+uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:73
+shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:169
+callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4436
+observe()@resource://gre/modules/addons/XPIProvider.jsm:2287
+GeckoDriver.prototype.quit()@driver.js:3300
+despatch()@server.js:293
+execute()@server.js:267
+onPacket/<()@server.js:242
+onPacket()@server.js:241
+_onJSONObjectReady/<()@transport.js:500
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1530005407622	geckodriver	INFO	geckodriver 0.21.0
+1530005407627	geckodriver	INFO	Listening on 127.0.0.1:51039
+1530005408634	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.yELa3IdVaD8n"
+1530005410510	Marionette	INFO	Listening on port 39207
+1530005410563	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530005411945	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/SnippetsFeed.jsm :: uninit :: line 185"  data: no] Stack trace: uninit()@resource://activity-stream/lib/SnippetsFeed.jsm:185
+onAction()@resource://activity-stream/lib/SnippetsFeed.jsm:201
+_middleware/</<()@resource://activity-stream/lib/Store.jsm:49
+Store/this[method]()@resource://activity-stream/lib/Store.jsm:28
+uninit()@resource://activity-stream/lib/Store.jsm:151
+uninit()@resource://activity-stream/lib/ActivityStream.jsm:300
+uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:73
+shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:169
+callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4436
+observe()@resource://gre/modules/addons/XPIProvider.jsm:2287
+GeckoDriver.prototype.quit()@driver.js:3300
+despatch()@server.js:293
+execute()@server.js:267
+onPacket/<()@server.js:242
+onPacket()@server.js:241
+_onJSONObjectReady/<()@transport.js:500
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+JavaScript error: resource://gre/modules/osfile/osfile_async_front.jsm, line 424: Error: OS.File has been shut down. Rejecting request to DirectoryIterator_prototype_close
+1530005461320	geckodriver	INFO	geckodriver 0.21.0
+1530005461324	geckodriver	INFO	Listening on 127.0.0.1:56425
+1530005462331	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.u5drkPyaP16v"
+1530005464518	Marionette	INFO	Listening on port 44535
+1530005464578	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530005465808	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/SnippetsFeed.jsm :: uninit :: line 185"  data: no] Stack trace: uninit()@resource://activity-stream/lib/SnippetsFeed.jsm:185
+onAction()@resource://activity-stream/lib/SnippetsFeed.jsm:201
+_middleware/</<()@resource://activity-stream/lib/Store.jsm:49
+Store/this[method]()@resource://activity-stream/lib/Store.jsm:28
+uninit()@resource://activity-stream/lib/Store.jsm:151
+uninit()@resource://activity-stream/lib/ActivityStream.jsm:300
+uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:73
+shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:169
+callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4436
+observe()@resource://gre/modules/addons/XPIProvider.jsm:2287
+GeckoDriver.prototype.quit()@driver.js:3300
+despatch()@server.js:293
+execute()@server.js:267
+onPacket/<()@server.js:242
+onPacket()@server.js:241
+_onJSONObjectReady/<()@transport.js:500
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1530005784609	geckodriver	INFO	geckodriver 0.21.0
+1530005784614	geckodriver	INFO	Listening on 127.0.0.1:56399
+1530005785623	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.9evHJO4ZdWlS"
+1530005787473	Marionette	INFO	Listening on port 34033
+1530005787548	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530005788644	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/SnippetsFeed.jsm :: uninit :: line 185"  data: no] Stack trace: uninit()@resource://activity-stream/lib/SnippetsFeed.jsm:185
+onAction()@resource://activity-stream/lib/SnippetsFeed.jsm:201
+_middleware/</<()@resource://activity-stream/lib/Store.jsm:49
+Store/this[method]()@resource://activity-stream/lib/Store.jsm:28
+uninit()@resource://activity-stream/lib/Store.jsm:151
+uninit()@resource://activity-stream/lib/ActivityStream.jsm:300
+uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:73
+shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:169
+callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4436
+observe()@resource://gre/modules/addons/XPIProvider.jsm:2287
+GeckoDriver.prototype.quit()@driver.js:3300
+despatch()@server.js:293
+execute()@server.js:267
+onPacket/<()@server.js:242
+onPacket()@server.js:241
+_onJSONObjectReady/<()@transport.js:500
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1530005890100	geckodriver	INFO	geckodriver 0.21.0
+1530005890105	geckodriver	INFO	Listening on 127.0.0.1:34145
+1530005891114	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.JWkO0vgKODKE"
+1530005893206	Marionette	INFO	Listening on port 37067
+1530005893234	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530005894780	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/SnippetsFeed.jsm :: uninit :: line 185"  data: no] Stack trace: uninit()@resource://activity-stream/lib/SnippetsFeed.jsm:185
+onAction()@resource://activity-stream/lib/SnippetsFeed.jsm:201
+_middleware/</<()@resource://activity-stream/lib/Store.jsm:49
+Store/this[method]()@resource://activity-stream/lib/Store.jsm:28
+uninit()@resource://activity-stream/lib/Store.jsm:151
+uninit()@resource://activity-stream/lib/ActivityStream.jsm:300
+uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:73
+shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:169
+callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4436
+observe()@resource://gre/modules/addons/XPIProvider.jsm:2287
+GeckoDriver.prototype.quit()@driver.js:3300
+despatch()@server.js:293
+execute()@server.js:267
+onPacket/<()@server.js:242
+onPacket()@server.js:241
+_onJSONObjectReady/<()@transport.js:500
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1530006495863	geckodriver	INFO	geckodriver 0.21.0
+1530006495868	geckodriver	INFO	Listening on 127.0.0.1:44871
+1530006496871	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.xtICavocgziv"
+1530006499910	Marionette	INFO	Listening on port 42825
+1530006500004	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530006501110	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/SnippetsFeed.jsm :: uninit :: line 185"  data: no] Stack trace: uninit()@resource://activity-stream/lib/SnippetsFeed.jsm:185
+onAction()@resource://activity-stream/lib/SnippetsFeed.jsm:201
+_middleware/</<()@resource://activity-stream/lib/Store.jsm:49
+Store/this[method]()@resource://activity-stream/lib/Store.jsm:28
+uninit()@resource://activity-stream/lib/Store.jsm:151
+uninit()@resource://activity-stream/lib/ActivityStream.jsm:300
+uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:73
+shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:169
+callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4436
+observe()@resource://gre/modules/addons/XPIProvider.jsm:2287
+GeckoDriver.prototype.quit()@driver.js:3300
+despatch()@server.js:293
+execute()@server.js:267
+onPacket/<()@server.js:242
+onPacket()@server.js:241
+_onJSONObjectReady/<()@transport.js:500
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1530006535181	geckodriver	INFO	geckodriver 0.21.0
+1530006535185	geckodriver	INFO	Listening on 127.0.0.1:40907
+1530006536232	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.CmOC7HrIQElQ"
+1530006538249	Marionette	INFO	Listening on port 37715
+1530006538347	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530006539466	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/SnippetsFeed.jsm :: uninit :: line 185"  data: no] Stack trace: uninit()@resource://activity-stream/lib/SnippetsFeed.jsm:185
+onAction()@resource://activity-stream/lib/SnippetsFeed.jsm:201
+_middleware/</<()@resource://activity-stream/lib/Store.jsm:49
+Store/this[method]()@resource://activity-stream/lib/Store.jsm:28
+uninit()@resource://activity-stream/lib/Store.jsm:151
+uninit()@resource://activity-stream/lib/ActivityStream.jsm:300
+uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:73
+shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:169
+callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4436
+observe()@resource://gre/modules/addons/XPIProvider.jsm:2287
+GeckoDriver.prototype.quit()@driver.js:3300
+despatch()@server.js:293
+execute()@server.js:267
+onPacket/<()@server.js:242
+onPacket()@server.js:241
+_onJSONObjectReady/<()@transport.js:500
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1530008416293	geckodriver	INFO	geckodriver 0.21.0
+1530008416298	geckodriver	INFO	Listening on 127.0.0.1:39663
+1530008417301	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.vNhZXwDw2YhM"
+1530008419287	Marionette	INFO	Listening on port 36741
+1530008419331	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530008420283	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/SnippetsFeed.jsm :: uninit :: line 185"  data: no] Stack trace: uninit()@resource://activity-stream/lib/SnippetsFeed.jsm:185
+onAction()@resource://activity-stream/lib/SnippetsFeed.jsm:201
+_middleware/</<()@resource://activity-stream/lib/Store.jsm:49
+Store/this[method]()@resource://activity-stream/lib/Store.jsm:28
+uninit()@resource://activity-stream/lib/Store.jsm:151
+uninit()@resource://activity-stream/lib/ActivityStream.jsm:300
+uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:73
+shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:169
+callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4436
+observe()@resource://gre/modules/addons/XPIProvider.jsm:2287
+GeckoDriver.prototype.quit()@driver.js:3300
+despatch()@server.js:293
+execute()@server.js:267
+onPacket/<()@server.js:242
+onPacket()@server.js:241
+_onJSONObjectReady/<()@transport.js:500
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1530008481197	geckodriver	INFO	geckodriver 0.21.0
+1530008481202	geckodriver	INFO	Listening on 127.0.0.1:38747
+1530008482205	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.xpR34h17hDbZ"
+1530008484262	Marionette	INFO	Listening on port 41035
+1530008484338	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530008485241	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/SnippetsFeed.jsm :: uninit :: line 185"  data: no] Stack trace: uninit()@resource://activity-stream/lib/SnippetsFeed.jsm:185
+onAction()@resource://activity-stream/lib/SnippetsFeed.jsm:201
+_middleware/</<()@resource://activity-stream/lib/Store.jsm:49
+Store/this[method]()@resource://activity-stream/lib/Store.jsm:28
+uninit()@resource://activity-stream/lib/Store.jsm:151
+uninit()@resource://activity-stream/lib/ActivityStream.jsm:300
+uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:73
+shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:169
+callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4436
+observe()@resource://gre/modules/addons/XPIProvider.jsm:2287
+GeckoDriver.prototype.quit()@driver.js:3300
+despatch()@server.js:293
+execute()@server.js:267
+onPacket/<()@server.js:242
+onPacket()@server.js:241
+_onJSONObjectReady/<()@transport.js:500
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1530090163989	geckodriver	INFO	geckodriver 0.21.0
+1530090164215	geckodriver	INFO	Listening on 127.0.0.1:33001
+1530090164812	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.f8pSSCEOSLgB"
+1530090176766	Marionette	INFO	Listening on port 43129
+1530090176868	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530090181994	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/SnippetsFeed.jsm :: uninit :: line 185"  data: no] Stack trace: uninit()@resource://activity-stream/lib/SnippetsFeed.jsm:185
+onAction()@resource://activity-stream/lib/SnippetsFeed.jsm:201
+_middleware/</<()@resource://activity-stream/lib/Store.jsm:49
+Store/this[method]()@resource://activity-stream/lib/Store.jsm:28
+uninit()@resource://activity-stream/lib/Store.jsm:151
+uninit()@resource://activity-stream/lib/ActivityStream.jsm:300
+uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:73
+shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:169
+callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4436
+observe()@resource://gre/modules/addons/XPIProvider.jsm:2287
+GeckoDriver.prototype.quit()@driver.js:3300
+despatch()@server.js:293
+execute()@server.js:267
+onPacket/<()@server.js:242
+onPacket()@server.js:241
+_onJSONObjectReady/<()@transport.js:500
+console.error: (new Error("Connection closed before committing the transaction.", "resource://gre/modules/Sqlite.jsm", 614))
+console.error: PushService: 
+  clearOriginData: Error clearing origin data:
+  UnknownError
+console.error: PushService: 
+  stateChangeProcessEnqueue: Error transitioning state
+  UnknownError
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1530090229204	geckodriver	INFO	geckodriver 0.21.0
+1530090229210	geckodriver	INFO	Listening on 127.0.0.1:44977
+1530090230212	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.0xpLbC9PqhpU"
+1530090232449	Marionette	INFO	Listening on port 45645
+1530090232528	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530090234033	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/SnippetsFeed.jsm :: uninit :: line 185"  data: no] Stack trace: uninit()@resource://activity-stream/lib/SnippetsFeed.jsm:185
+onAction()@resource://activity-stream/lib/SnippetsFeed.jsm:201
+_middleware/</<()@resource://activity-stream/lib/Store.jsm:49
+Store/this[method]()@resource://activity-stream/lib/Store.jsm:28
+uninit()@resource://activity-stream/lib/Store.jsm:151
+uninit()@resource://activity-stream/lib/ActivityStream.jsm:300
+uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:73
+shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:169
+callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4436
+observe()@resource://gre/modules/addons/XPIProvider.jsm:2287
+GeckoDriver.prototype.quit()@driver.js:3300
+despatch()@server.js:293
+execute()@server.js:267
+onPacket/<()@server.js:242
+onPacket()@server.js:241
+_onJSONObjectReady/<()@transport.js:500
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1530090955913	geckodriver	INFO	geckodriver 0.21.0
+1530090955918	geckodriver	INFO	Listening on 127.0.0.1:49703
+1530090956924	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.rZXzaBixpeza"
+1530090959171	Marionette	INFO	Listening on port 40409
+1530090959289	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530090960675	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/SnippetsFeed.jsm :: uninit :: line 185"  data: no] Stack trace: uninit()@resource://activity-stream/lib/SnippetsFeed.jsm:185
+onAction()@resource://activity-stream/lib/SnippetsFeed.jsm:201
+_middleware/</<()@resource://activity-stream/lib/Store.jsm:49
+Store/this[method]()@resource://activity-stream/lib/Store.jsm:28
+uninit()@resource://activity-stream/lib/Store.jsm:151
+uninit()@resource://activity-stream/lib/ActivityStream.jsm:300
+uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:73
+shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:169
+callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4436
+observe()@resource://gre/modules/addons/XPIProvider.jsm:2287
+GeckoDriver.prototype.quit()@driver.js:3300
+despatch()@server.js:293
+execute()@server.js:267
+onPacket/<()@server.js:242
+onPacket()@server.js:241
+_onJSONObjectReady/<()@transport.js:500
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1530090992928	geckodriver	INFO	geckodriver 0.21.0
+1530090992933	geckodriver	INFO	Listening on 127.0.0.1:59225
+1530090993937	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.HwaVqEVV9NMK"
+1530090996423	Marionette	INFO	Listening on port 40137
+1530090996494	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530090997770	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/SnippetsFeed.jsm :: uninit :: line 185"  data: no] Stack trace: uninit()@resource://activity-stream/lib/SnippetsFeed.jsm:185
+onAction()@resource://activity-stream/lib/SnippetsFeed.jsm:201
+_middleware/</<()@resource://activity-stream/lib/Store.jsm:49
+Store/this[method]()@resource://activity-stream/lib/Store.jsm:28
+uninit()@resource://activity-stream/lib/Store.jsm:151
+uninit()@resource://activity-stream/lib/ActivityStream.jsm:300
+uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:73
+shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:169
+callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4436
+observe()@resource://gre/modules/addons/XPIProvider.jsm:2287
+GeckoDriver.prototype.quit()@driver.js:3300
+despatch()@server.js:293
+execute()@server.js:267
+onPacket/<()@server.js:242
+onPacket()@server.js:241
+_onJSONObjectReady/<()@transport.js:500
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1530091546575	geckodriver	INFO	geckodriver 0.21.0
+1530091546581	geckodriver	INFO	Listening on 127.0.0.1:36317
+1530091547583	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.eLW0FPzWoVaf"
+1530091549374	Marionette	INFO	Listening on port 42007
+1530091549408	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530091550263	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/SnippetsFeed.jsm :: uninit :: line 185"  data: no] Stack trace: uninit()@resource://activity-stream/lib/SnippetsFeed.jsm:185
+onAction()@resource://activity-stream/lib/SnippetsFeed.jsm:201
+_middleware/</<()@resource://activity-stream/lib/Store.jsm:49
+Store/this[method]()@resource://activity-stream/lib/Store.jsm:28
+uninit()@resource://activity-stream/lib/Store.jsm:151
+uninit()@resource://activity-stream/lib/ActivityStream.jsm:300
+uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:73
+shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:169
+callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4436
+observe()@resource://gre/modules/addons/XPIProvider.jsm:2287
+GeckoDriver.prototype.quit()@driver.js:3300
+despatch()@server.js:293
+execute()@server.js:267
+onPacket/<()@server.js:242
+onPacket()@server.js:241
+_onJSONObjectReady/<()@transport.js:500
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1530091797684	geckodriver	INFO	geckodriver 0.21.0
+1530091797690	geckodriver	INFO	Listening on 127.0.0.1:48753
+1530091798683	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.TchH3VUXg9xW"
+1530091800900	Marionette	INFO	Listening on port 33925
+1530091801014	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530091802263	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/SnippetsFeed.jsm :: uninit :: line 185"  data: no] Stack trace: uninit()@resource://activity-stream/lib/SnippetsFeed.jsm:185
+onAction()@resource://activity-stream/lib/SnippetsFeed.jsm:201
+_middleware/</<()@resource://activity-stream/lib/Store.jsm:49
+Store/this[method]()@resource://activity-stream/lib/Store.jsm:28
+uninit()@resource://activity-stream/lib/Store.jsm:151
+uninit()@resource://activity-stream/lib/ActivityStream.jsm:300
+uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:73
+shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:169
+callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4436
+observe()@resource://gre/modules/addons/XPIProvider.jsm:2287
+GeckoDriver.prototype.quit()@driver.js:3300
+despatch()@server.js:293
+execute()@server.js:267
+onPacket/<()@server.js:242
+onPacket()@server.js:241
+_onJSONObjectReady/<()@transport.js:500
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1530091830653	geckodriver	INFO	geckodriver 0.21.0
+1530091830658	geckodriver	INFO	Listening on 127.0.0.1:58213
+1530091831666	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.UEsBqOnXCTtS"
+1530091833540	Marionette	INFO	Listening on port 37997
+1530091833620	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530091834828	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/SnippetsFeed.jsm :: uninit :: line 185"  data: no] Stack trace: uninit()@resource://activity-stream/lib/SnippetsFeed.jsm:185
+onAction()@resource://activity-stream/lib/SnippetsFeed.jsm:201
+_middleware/</<()@resource://activity-stream/lib/Store.jsm:49
+Store/this[method]()@resource://activity-stream/lib/Store.jsm:28
+uninit()@resource://activity-stream/lib/Store.jsm:151
+uninit()@resource://activity-stream/lib/ActivityStream.jsm:300
+uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:73
+shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:169
+callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4436
+observe()@resource://gre/modules/addons/XPIProvider.jsm:2287
+GeckoDriver.prototype.quit()@driver.js:3300
+despatch()@server.js:293
+execute()@server.js:267
+onPacket/<()@server.js:242
+onPacket()@server.js:241
+_onJSONObjectReady/<()@transport.js:500
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1530093078856	geckodriver	INFO	geckodriver 0.21.0
+1530093078860	geckodriver	INFO	Listening on 127.0.0.1:33305
+1530093079865	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.q6EEBYfREkVP"
+1530093082124	Marionette	INFO	Listening on port 43361
+1530093082225	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530093083319	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/SnippetsFeed.jsm :: uninit :: line 185"  data: no] Stack trace: uninit()@resource://activity-stream/lib/SnippetsFeed.jsm:185
+onAction()@resource://activity-stream/lib/SnippetsFeed.jsm:201
+_middleware/</<()@resource://activity-stream/lib/Store.jsm:49
+Store/this[method]()@resource://activity-stream/lib/Store.jsm:28
+uninit()@resource://activity-stream/lib/Store.jsm:151
+uninit()@resource://activity-stream/lib/ActivityStream.jsm:300
+uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:73
+shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:169
+callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4436
+observe()@resource://gre/modules/addons/XPIProvider.jsm:2287
+GeckoDriver.prototype.quit()@driver.js:3300
+despatch()@server.js:293
+execute()@server.js:267
+onPacket/<()@server.js:242
+onPacket()@server.js:241
+_onJSONObjectReady/<()@transport.js:500
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1530180931612	geckodriver	INFO	geckodriver 0.21.0
+1530180931670	geckodriver	INFO	Listening on 127.0.0.1:51917
+1530180932502	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Z7vbI7JJnaeo"
+1530180935379	Marionette	INFO	Listening on port 39139
+1530180935443	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://127.0.0.1:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://127.0.0.1:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://127.0.0.1:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://127.0.0.1:8000/login/?next=/login/, line 1: TypeError: document.location.history is undefined
+JavaScript error: http://127.0.0.1:8000/login/?next=/login/, line 349: ReferenceError: None is not defined
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1530181419680	geckodriver	INFO	geckodriver 0.21.0
+1530181419685	geckodriver	INFO	Listening on 127.0.0.1:39545
+1530181420697	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.kdIz2MRWNOzF"
+1530181422913	Marionette	INFO	Listening on port 42241
+1530181422934	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://127.0.0.1:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://127.0.0.1:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://127.0.0.1:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://127.0.0.1:8000/login/?next=/login/, line 1: TypeError: document.location.history is undefined
+JavaScript error: http://127.0.0.1:8000/login/?next=/login/, line 349: ReferenceError: None is not defined
+1530182523867	geckodriver	INFO	geckodriver 0.21.0
+1530182523871	geckodriver	INFO	Listening on 127.0.0.1:60231
+1530182524880	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.BkL6ESqB0oow"
+1530182527001	Marionette	INFO	Listening on port 43799
+1530182527121	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://127.0.0.1:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://127.0.0.1:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://127.0.0.1:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://127.0.0.1:8000/login/?next=/login/, line 1: TypeError: document.location.history is undefined
+JavaScript error: http://127.0.0.1:8000/login/?next=/login/, line 349: ReferenceError: None is not defined
+JavaScript error: http://127.0.0.1:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://127.0.0.1:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://127.0.0.1:8000/mydashboard/, line 1: TypeError: document.location.history is undefined
+1530182586418	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1530182587016	geckodriver	INFO	geckodriver 0.21.0
+1530182587031	geckodriver	INFO	Listening on 127.0.0.1:45211
+1530182588024	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.j6eYejMBFBz6"
+1530182590133	Marionette	INFO	Listening on port 33429
+1530182590172	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530182591592	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/SnippetsFeed.jsm :: uninit :: line 185"  data: no] Stack trace: uninit()@resource://activity-stream/lib/SnippetsFeed.jsm:185
+onAction()@resource://activity-stream/lib/SnippetsFeed.jsm:201
+_middleware/</<()@resource://activity-stream/lib/Store.jsm:49
+Store/this[method]()@resource://activity-stream/lib/Store.jsm:28
+uninit()@resource://activity-stream/lib/Store.jsm:151
+uninit()@resource://activity-stream/lib/ActivityStream.jsm:300
+uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:73
+shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:169
+callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4436
+observe()@resource://gre/modules/addons/XPIProvider.jsm:2287
+GeckoDriver.prototype.quit()@driver.js:3300
+despatch()@server.js:293
+execute()@server.js:267
+onPacket/<()@server.js:242
+onPacket()@server.js:241
+_onJSONObjectReady/<()@transport.js:500
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1530182714343	geckodriver	INFO	geckodriver 0.21.0
+1530182714347	geckodriver	INFO	Listening on 127.0.0.1:57489
+1530182715355	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.b6ZAF4ezVFEB"
+1530182717224	Marionette	INFO	Listening on port 37449
+1530182717284	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://127.0.0.1:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://127.0.0.1:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://127.0.0.1:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://127.0.0.1:8000/login/?next=/login/, line 1: TypeError: document.location.history is undefined
+JavaScript error: http://127.0.0.1:8000/login/?next=/login/, line 349: ReferenceError: None is not defined
+JavaScript error: http://127.0.0.1:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://127.0.0.1:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://127.0.0.1:8000/mydashboard/, line 1: TypeError: document.location.history is undefined
+1530182777221	geckodriver	INFO	geckodriver 0.21.0
+1530182777239	geckodriver	INFO	Listening on 127.0.0.1:55305
+1530182778299	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.T5BDLLGeIKYG"
+1530182780298	Marionette	INFO	Listening on port 44703
+1530182780335	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530182781359	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/SnippetsFeed.jsm :: uninit :: line 185"  data: no] Stack trace: uninit()@resource://activity-stream/lib/SnippetsFeed.jsm:185
+onAction()@resource://activity-stream/lib/SnippetsFeed.jsm:201
+_middleware/</<()@resource://activity-stream/lib/Store.jsm:49
+Store/this[method]()@resource://activity-stream/lib/Store.jsm:28
+uninit()@resource://activity-stream/lib/Store.jsm:151
+uninit()@resource://activity-stream/lib/ActivityStream.jsm:300
+uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:73
+shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:169
+callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4436
+observe()@resource://gre/modules/addons/XPIProvider.jsm:2287
+GeckoDriver.prototype.quit()@driver.js:3300
+despatch()@server.js:293
+execute()@server.js:267
+onPacket/<()@server.js:242
+onPacket()@server.js:241
+_onJSONObjectReady/<()@transport.js:500
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1530183027003	geckodriver	INFO	geckodriver 0.21.0
+1530183027007	geckodriver	INFO	Listening on 127.0.0.1:35073
+1530183028037	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.56Dhvq6Snqtf"
+1530183029928	Marionette	INFO	Listening on port 38695
+1530183029961	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://127.0.0.1:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://127.0.0.1:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://127.0.0.1:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://127.0.0.1:8000/login/?next=/login/, line 1: TypeError: document.location.history is undefined
+JavaScript error: http://127.0.0.1:8000/login/?next=/login/, line 349: ReferenceError: None is not defined
+JavaScript error: http://127.0.0.1:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://127.0.0.1:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://127.0.0.1:8000/mydashboard/, line 1: TypeError: document.location.history is undefined
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1530183081292	geckodriver	INFO	geckodriver 0.21.0
+1530183081305	geckodriver	INFO	Listening on 127.0.0.1:53013
+1530183082308	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.w1iCEQo5QxbW"
+1530183084526	Marionette	INFO	Listening on port 39515
+1530183084636	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530183085749	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/SnippetsFeed.jsm :: uninit :: line 185"  data: no] Stack trace: uninit()@resource://activity-stream/lib/SnippetsFeed.jsm:185
+onAction()@resource://activity-stream/lib/SnippetsFeed.jsm:201
+_middleware/</<()@resource://activity-stream/lib/Store.jsm:49
+Store/this[method]()@resource://activity-stream/lib/Store.jsm:28
+uninit()@resource://activity-stream/lib/Store.jsm:151
+uninit()@resource://activity-stream/lib/ActivityStream.jsm:300
+uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:73
+shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:169
+callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4436
+observe()@resource://gre/modules/addons/XPIProvider.jsm:2287
+GeckoDriver.prototype.quit()@driver.js:3300
+despatch()@server.js:293
+execute()@server.js:267
+onPacket/<()@server.js:242
+onPacket()@server.js:241
+_onJSONObjectReady/<()@transport.js:500
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1530183371133	geckodriver	INFO	geckodriver 0.21.0
+1530183371138	geckodriver	INFO	Listening on 127.0.0.1:39547
+1530183372148	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.KTEWhr3yWcH9"
+1530183374394	Marionette	INFO	Listening on port 43411
+1530183374498	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://127.0.0.1:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://127.0.0.1:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://127.0.0.1:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://127.0.0.1:8000/login/?next=/login/, line 1: TypeError: document.location.history is undefined
+JavaScript error: http://127.0.0.1:8000/login/?next=/login/, line 349: ReferenceError: None is not defined
+JavaScript error: http://127.0.0.1:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://127.0.0.1:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://127.0.0.1:8000/mydashboard/, line 1: TypeError: document.location.history is undefined
+1530183464808	geckodriver	INFO	geckodriver 0.21.0
+1530183464825	geckodriver	INFO	Listening on 127.0.0.1:32843
+1530183465821	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.pkJAMPqELc0p"
+1530183470624	Marionette	INFO	Listening on port 37171
+1530183470702	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530183471769	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/SnippetsFeed.jsm :: uninit :: line 185"  data: no] Stack trace: uninit()@resource://activity-stream/lib/SnippetsFeed.jsm:185
+onAction()@resource://activity-stream/lib/SnippetsFeed.jsm:201
+_middleware/</<()@resource://activity-stream/lib/Store.jsm:49
+Store/this[method]()@resource://activity-stream/lib/Store.jsm:28
+uninit()@resource://activity-stream/lib/Store.jsm:151
+uninit()@resource://activity-stream/lib/ActivityStream.jsm:300
+uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:73
+shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:169
+callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4436
+observe()@resource://gre/modules/addons/XPIProvider.jsm:2287
+GeckoDriver.prototype.quit()@driver.js:3300
+despatch()@server.js:293
+execute()@server.js:267
+onPacket/<()@server.js:242
+onPacket()@server.js:241
+_onJSONObjectReady/<()@transport.js:500
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1530183670055	geckodriver	INFO	geckodriver 0.21.0
+1530183670060	geckodriver	INFO	Listening on 127.0.0.1:59991
+1530183671068	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.SHQz8yKpLXDR"
+1530183673300	Marionette	INFO	Listening on port 45261
+1530183673417	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://127.0.0.1:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://127.0.0.1:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://127.0.0.1:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://127.0.0.1:8000/login/?next=/login/, line 1: TypeError: document.location.history is undefined
+JavaScript error: http://127.0.0.1:8000/login/?next=/login/, line 349: ReferenceError: None is not defined
+JavaScript error: http://127.0.0.1:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://127.0.0.1:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://127.0.0.1:8000/mydashboard/, line 1: TypeError: document.location.history is undefined
+JavaScript error: http://127.0.0.1:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://127.0.0.1:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://127.0.0.1:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://127.0.0.1:8000/article-view/4/, line 1: TypeError: document.location.history is undefined
+JavaScript error: http://127.0.0.1:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://127.0.0.1:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://127.0.0.1:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://127.0.0.1:8000/article-view/4/, line 1: TypeError: document.location.history is undefined
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1530183844788	geckodriver	INFO	geckodriver 0.21.0
+1530183844793	geckodriver	INFO	Listening on 127.0.0.1:41387
+1530183845798	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.i5z9q6l6PMrg"
+1530183848486	Marionette	INFO	Listening on port 33717
+1530183848548	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://127.0.0.1:8000/static/js/scriptMyContrib.js, line 8: ReferenceError: Chart is not defined
+JavaScript error: http://127.0.0.1:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://127.0.0.1:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://127.0.0.1:8000/login/?next=/login/, line 1: TypeError: document.location.history is undefined
+JavaScript error: http://127.0.0.1:8000/login/?next=/login/, line 349: ReferenceError: None is not defined
+JavaScript error: http://127.0.0.1:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://127.0.0.1:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://127.0.0.1:8000/mydashboard/, line 1: TypeError: document.location.history is undefined
+JavaScript error: http://127.0.0.1:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://127.0.0.1:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://127.0.0.1:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://127.0.0.1:8000/article-view/4/, line 1: TypeError: document.location.history is undefined
+1530183990393	geckodriver	INFO	geckodriver 0.21.0
+1530183990399	geckodriver	INFO	Listening on 127.0.0.1:56135
+1530183991408	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.VPkhXK80fesN"
+1530183994014	Marionette	INFO	Listening on port 43517
+1530183994033	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://127.0.0.1:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://127.0.0.1:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://127.0.0.1:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: https://platform.twitter.com/widgets/widget_iframe.c5b006ac082bc92aa829181b9ce63af1.html?origin=http%3A%2F%2F127.0.0.1%3A8000&settingsEndpoint=https%3A%2F%2Fsyndication.twitter.com%2Fsettings, line 12: Error: Network error.
+JavaScript error: http://127.0.0.1:8000/login/?next=/login/, line 1: TypeError: document.location.history is undefined
+JavaScript error: http://127.0.0.1:8000/login/?next=/login/, line 349: ReferenceError: None is not defined
+JavaScript error: http://127.0.0.1:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://127.0.0.1:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://127.0.0.1:8000/mydashboard/, line 1: TypeError: document.location.history is undefined
+JavaScript error: http://127.0.0.1:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://127.0.0.1:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://127.0.0.1:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://127.0.0.1:8000/article-view/4/, line 1: TypeError: document.location.history is undefined
+JavaScript error: http://127.0.0.1:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://127.0.0.1:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://127.0.0.1:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://127.0.0.1:8000/article-view/4/, line 1: TypeError: document.location.history is undefined
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1530184193774	geckodriver	INFO	geckodriver 0.21.0
+1530184193779	geckodriver	INFO	Listening on 127.0.0.1:56597
+1530184194785	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.hpsXCaDilUPK"
+1530184197439	Marionette	INFO	Listening on port 40027
+1530184197523	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://127.0.0.1:8000/static/js/scriptMyContrib.js, line 8: ReferenceError: Chart is not defined
+JavaScript error: http://127.0.0.1:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://127.0.0.1:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://127.0.0.1:8000/login/?next=/login/, line 1: TypeError: document.location.history is undefined
+JavaScript error: http://127.0.0.1:8000/login/?next=/login/, line 349: ReferenceError: None is not defined
+JavaScript error: http://127.0.0.1:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://127.0.0.1:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://127.0.0.1:8000/mydashboard/, line 1: TypeError: document.location.history is undefined
+JavaScript error: http://127.0.0.1:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://127.0.0.1:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://127.0.0.1:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://127.0.0.1:8000/article-view/4/, line 1: TypeError: document.location.history is undefined
+JavaScript error: http://127.0.0.1:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://127.0.0.1:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://127.0.0.1:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://127.0.0.1:8000/article-view/4/, line 1: TypeError: document.location.history is undefined
+1530184352761	geckodriver	INFO	geckodriver 0.21.0
+1530184352766	geckodriver	INFO	Listening on 127.0.0.1:45855
+1530184353774	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.ZNsFXNzUidnh"
+1530184356039	Marionette	INFO	Listening on port 46037
+1530184356117	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://127.0.0.1:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://127.0.0.1:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://127.0.0.1:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://127.0.0.1:8000/login/?next=/login/, line 1: TypeError: document.location.history is undefined
+JavaScript error: http://127.0.0.1:8000/login/?next=/login/, line 349: ReferenceError: None is not defined
+JavaScript error: http://127.0.0.1:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://127.0.0.1:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://127.0.0.1:8000/mydashboard/, line 1: TypeError: document.location.history is undefined
+JavaScript error: http://127.0.0.1:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://127.0.0.1:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://127.0.0.1:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://127.0.0.1:8000/article-view/4/, line 1: TypeError: document.location.history is undefined
+JavaScript error: http://127.0.0.1:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://127.0.0.1:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://127.0.0.1:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://127.0.0.1:8000/article-view/4/, line 1: TypeError: document.location.history is undefined
+JavaScript error: http://127.0.0.1:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://127.0.0.1:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://127.0.0.1:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://127.0.0.1:8000/article-view/4/, line 1: TypeError: document.location.history is undefined
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1530184464395	geckodriver	INFO	geckodriver 0.21.0
+1530184464400	geckodriver	INFO	Listening on 127.0.0.1:57151
+1530184465407	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.6LCVP826qXh2"
+1530184467519	Marionette	INFO	Listening on port 34259
+1530184467538	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://127.0.0.1:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://127.0.0.1:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://127.0.0.1:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://127.0.0.1:8000/login/?next=/login/, line 1: TypeError: document.location.history is undefined
+JavaScript error: http://127.0.0.1:8000/login/?next=/login/, line 349: ReferenceError: None is not defined
+JavaScript error: http://127.0.0.1:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://127.0.0.1:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://127.0.0.1:8000/mydashboard/, line 1: TypeError: document.location.history is undefined
+JavaScript error: http://127.0.0.1:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://127.0.0.1:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://127.0.0.1:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://127.0.0.1:8000/article-view/4/, line 1: TypeError: document.location.history is undefined
+JavaScript error: http://127.0.0.1:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://127.0.0.1:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://127.0.0.1:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://127.0.0.1:8000/article-view/4/, line 1: TypeError: document.location.history is undefined
+JavaScript error: http://127.0.0.1:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://127.0.0.1:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://127.0.0.1:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://127.0.0.1:8000/article-view/4/, line 1: TypeError: document.location.history is undefined
+1530184626644	geckodriver	INFO	geckodriver 0.21.0
+1530184626648	geckodriver	INFO	Listening on 127.0.0.1:54365
+1530184627659	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.7XHGi3x22jZN"
+1530184629628	Marionette	INFO	Listening on port 39791
+1530184629713	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://127.0.0.1:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://127.0.0.1:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://127.0.0.1:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: https://platform.twitter.com/widgets/widget_iframe.c5b006ac082bc92aa829181b9ce63af1.html?origin=http%3A%2F%2F127.0.0.1%3A8000&settingsEndpoint=https%3A%2F%2Fsyndication.twitter.com%2Fsettings, line 12: Error: Network error.
+JavaScript error: http://127.0.0.1:8000/login/?next=/login/, line 1: TypeError: document.location.history is undefined
+JavaScript error: http://127.0.0.1:8000/login/?next=/login/, line 349: ReferenceError: None is not defined
+JavaScript error: http://127.0.0.1:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://127.0.0.1:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://127.0.0.1:8000/mydashboard/, line 1: TypeError: document.location.history is undefined
+JavaScript error: http://127.0.0.1:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://127.0.0.1:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://127.0.0.1:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://127.0.0.1:8000/article-view/4/, line 1: TypeError: document.location.history is undefined
+JavaScript error: http://127.0.0.1:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://127.0.0.1:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://127.0.0.1:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://127.0.0.1:8000/article-view/4/, line 1: TypeError: document.location.history is undefined
+JavaScript error: http://127.0.0.1:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://127.0.0.1:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://127.0.0.1:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://127.0.0.1:8000/article-view/4/, line 1: TypeError: document.location.history is undefined
+1530184717306	geckodriver	INFO	geckodriver 0.21.0
+1530184717310	geckodriver	INFO	Listening on 127.0.0.1:36367
+1530184718318	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.2IKeszueapcE"
+1530184720313	Marionette	INFO	Listening on port 44735
+1530184720361	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://127.0.0.1:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://127.0.0.1:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://127.0.0.1:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://127.0.0.1:8000/login/?next=/login/, line 1: TypeError: document.location.history is undefined
+JavaScript error: http://127.0.0.1:8000/login/?next=/login/, line 349: ReferenceError: None is not defined
+JavaScript error: http://127.0.0.1:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://127.0.0.1:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://127.0.0.1:8000/mydashboard/, line 1: TypeError: document.location.history is undefined
+JavaScript error: http://127.0.0.1:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://127.0.0.1:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://127.0.0.1:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://127.0.0.1:8000/article-view/4/, line 1: TypeError: document.location.history is undefined
+JavaScript error: http://127.0.0.1:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://127.0.0.1:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://127.0.0.1:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://127.0.0.1:8000/article-view/4/, line 1: TypeError: document.location.history is undefined
+JavaScript error: http://127.0.0.1:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://127.0.0.1:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://127.0.0.1:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://127.0.0.1:8000/article-view/4/, line 1: TypeError: document.location.history is undefined
+1530185545504	geckodriver	INFO	geckodriver 0.21.0
+1530185545509	geckodriver	INFO	Listening on 127.0.0.1:40859
+1530185546510	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.GY7Uxjh10Ubc"
+1530185548902	Marionette	INFO	Listening on port 38293
+1530185548960	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://127.0.0.1:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://127.0.0.1:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://127.0.0.1:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: https://platform.twitter.com/widgets/widget_iframe.c5b006ac082bc92aa829181b9ce63af1.html?origin=http%3A%2F%2F127.0.0.1%3A8000&settingsEndpoint=https%3A%2F%2Fsyndication.twitter.com%2Fsettings, line 12: Error: Network error.
+JavaScript error: http://127.0.0.1:8000/login/?next=/login/, line 1: TypeError: document.location.history is undefined
+JavaScript error: http://127.0.0.1:8000/login/?next=/login/, line 349: ReferenceError: None is not defined
+
+(/usr/lib/firefox/firefox:6496): dconf-WARNING **: 17:03:08.223: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1530185686915	geckodriver	INFO	geckodriver 0.21.0
+1530185686919	geckodriver	INFO	Listening on 127.0.0.1:50395
+1530185686926	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Ab97AvpzSw3z"
+1530185689183	Marionette	INFO	Listening on port 45563
+1530185689257	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://127.0.0.1:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://127.0.0.1:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://127.0.0.1:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://127.0.0.1:8000/login/?next=/login/, line 1: TypeError: document.location.history is undefined
+JavaScript error: http://127.0.0.1:8000/login/?next=/login/, line 349: ReferenceError: None is not defined
+JavaScript error: http://127.0.0.1:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://127.0.0.1:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://127.0.0.1:8000/mydashboard/, line 1: TypeError: document.location.history is undefined
+JavaScript error: http://127.0.0.1:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://127.0.0.1:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://127.0.0.1:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://127.0.0.1:8000/article-view/4/, line 1: TypeError: document.location.history is undefined
+JavaScript error: http://127.0.0.1:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://127.0.0.1:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://127.0.0.1:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://127.0.0.1:8000/article-view/4/, line 1: TypeError: document.location.history is undefined
+JavaScript error: http://127.0.0.1:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://127.0.0.1:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://127.0.0.1:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://127.0.0.1:8000/article-view/4/, line 1: TypeError: document.location.history is undefined
+1530249840245	geckodriver	INFO	geckodriver 0.21.0
+1530249840311	geckodriver	INFO	Listening on 127.0.0.1:57649
+1530249841219	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.hMNhx36EnIaN"
+1530249844995	Marionette	INFO	Listening on port 34985
+1530249845050	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530249884451	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: timeout
+JavaScript error: http://127.0.0.1:8000/static/js/scriptMyContrib.js, line 8: ReferenceError: Chart is not defined
+JavaScript error: http://127.0.0.1:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://127.0.0.1:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+1530249974961	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+JavaScript error: http://127.0.0.1:8000/login/?next=/login/, line 1: TypeError: document.location.history is undefined
+JavaScript error: http://127.0.0.1:8000/login/?next=/login/, line 349: ReferenceError: None is not defined
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 2307, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-m9FtQy/firefox-60.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 2236, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-m9FtQy/firefox-60.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1530250128790	geckodriver	INFO	geckodriver 0.21.0
+1530250128794	geckodriver	INFO	Listening on 127.0.0.1:56135
+1530250129803	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.FT33rFCMhqIl"
+1530250131990	Marionette	INFO	Listening on port 39741
+1530250132020	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530250199155	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: timeout
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 2430, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-m9FtQy/firefox-60.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1530250224802	geckodriver	INFO	geckodriver 0.21.0
+1530250224806	geckodriver	INFO	Listening on 127.0.0.1:45383
+1530250225813	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.aR1sr5daMf6J"
+1530250227790	Marionette	INFO	Listening on port 40341
+1530250227844	Marionette	WARN	TLS certificate errors will be ignored for this session
+                                                                                                                                                                                                                                                           1530250743286	geckodriver	INFO	geckodriver 0.21.0
+1530250743343	geckodriver	INFO	Listening on 127.0.0.1:47079
+1530250744265	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.gfc59ac0Ncub"
+1530250748143	Marionette	INFO	Listening on port 43329
+1530250748220	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://127.0.0.1:8000/static/js/scriptMyContrib.js, line 8: ReferenceError: Chart is not defined
+JavaScript error: http://127.0.0.1:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://127.0.0.1:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+1530250787634	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: timeout
+JavaScript error: http://127.0.0.1:8000/login/?next=/login/, line 1: TypeError: document.location.history is undefined
+JavaScript error: http://127.0.0.1:8000/login/?next=/login/, line 349: ReferenceError: None is not defined
+1530250878571	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+JavaScript error: http://127.0.0.1:8000/static/js/scriptMyContrib.js, line 8: ReferenceError: Chart is not defined
+JavaScript error: http://127.0.0.1:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://127.0.0.1:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://127.0.0.1:8000/mydashboard/, line 1: TypeError: document.location.history is undefined
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 2395, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-m9FtQy/firefox-60.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 2266, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-m9FtQy/firefox-60.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
