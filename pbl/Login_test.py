@@ -6,8 +6,13 @@ import string
 from selenium import webdriver
 from selenium.webdriver.common.desired_capabilities import DesiredCapabilities
 from selenium.webdriver.common.action_chains import ActionChains
+from decouple import config
+
 
 class LoginCorrect(unittest.TestCase):
+
+        IP = config('IP_ADDRESS')
+        PORT = config('PBLCLIENT_PORT')
 
 	def setUp(self):
 		self.driver = webdriver.Firefox()
@@ -24,7 +29,7 @@ class LoginCorrect(unittest.TestCase):
 		# Creating User account
 		driver = self.driver
 
-		driver.get("http://localhost:8001/register/")
+		driver.get("http://IP:PORT/register/")
 		elem = driver.find_element_by_id("first_name")
 		elem.send_keys(fname)
 		elem = driver.find_element_by_id("last_name")
@@ -40,7 +45,7 @@ class LoginCorrect(unittest.TestCase):
 		driver.find_element_by_name('user_type').click()
 		driver.find_element_by_id('create_account_btn').click()
 
-		driver.get("http://localhost:8001/login")
+		driver.get("http://IP:PORT/login")
 		elem = driver.find_element_by_id("username")
 		elem.send_keys(user)
 		elem = driver.find_element_by_id("password")
@@ -54,7 +59,7 @@ class LoginCorrect(unittest.TestCase):
 		user = ''.join(random.SystemRandom().choice(string.ascii_uppercase + string.digits) for _ in range(6))
 		pwd=  ''.join(random.SystemRandom().choice(string.ascii_uppercase + string.digits) for _ in range(8))
 
-		driver.get("http://localhost:8001/login")
+		driver.get("http://IP:PORT/login")
 		elem = driver.find_element_by_id("username")
 		elem.send_keys(user)
 		elem = driver.find_element_by_id("password")
@@ -67,7 +72,7 @@ class LoginCorrect(unittest.TestCase):
 
     def test_UI7_3(self):
         driver = self.driver
-        driver.get("http://localhost:8001/login")
+        driver.get("http://IP:PORT/login")
         driver.find_element_by_id("sign_in").click()
         alertmessage = self.driver.switch_to.alert.text
         self.assertEqual("Enter All Information", alertmessage)
@@ -75,7 +80,7 @@ class LoginCorrect(unittest.TestCase):
 	def test_UI7_4(self):
 		
 		driver=self.driver
-		driver.get("http://localhost:8001/login")
+		driver.get("http://IP:PORT/login")
 		element = driver.find_element_by_link_text("Sign in")
 		driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
 		hover = ActionChains(driver).move_to_element(element).perform()
@@ -85,7 +90,7 @@ class LoginCorrect(unittest.TestCase):
 	def test_UI7_5(self):
 		
 		driver=self.driver
-		driver.get("http://localhost:8001/login") 
+		driver.get("http://IP:PORT/login") 
 		driver.find_element_by_link_text('Sign up').click()
 		assert "register" in driver.current_url   
 
