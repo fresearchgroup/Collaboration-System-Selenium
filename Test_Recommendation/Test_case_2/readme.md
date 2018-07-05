@@ -27,13 +27,13 @@ than the  community 2.
 
 ## `.env` Varialbles:
 
-1. __ADDRESS.__This field is the ip address of the docker.
-2. __NAME.__This field is the username of any existing user in the system(prefered django admin).
-3. __PASSWORD.__This field is the password of above username.
-4. __DEPLOY_ADDRESS.__This field is the ip address of the Collaborative system (with ports).
-5. __DJANGO_ADMIN_NAME.__This field is the username of django admin.
-6. __DJANGO_ADMIN_PASSWORD.__This field is the password of django admin.
-7. __MINIMUM_RECOMMENDATION_PERCENTAGE.__This field is set by tester which required, the minimum percentage of test community articles 1 in the recommendation of test user 3.( default: 60% )
+1.  __ADDRESS.__ This field is the ip address of the docker.
+2.  __NAME.__ This field is the username of any existing user in the system(prefered django admin).
+3.  __PASSWORD.__ This field is the password of above username.
+4.  __DEPLOY_ADDRESS.__ This field is the ip address of the Collaborative system (with ports).
+5.  __DJANGO_ADMIN_NAME.__ This field is the username of django admin.
+6.  __DJANGO_ADMIN_PASSWORD.__ This field is the password of django admin.
+7.  __MINIMUM_RECOMMENDATION_PERCENTAGE.__ This field is set by tester which required, the minimum percentage of test community articles 1 in the recommendation of test user 3.( default: 60% )
 8. __IP.__ This field is the IP address of the system.
 
 
