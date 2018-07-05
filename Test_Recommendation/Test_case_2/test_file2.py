@@ -6,6 +6,11 @@ from selenium.webdriver.common.desired_capabilities import DesiredCapabilities
 from selenium.webdriver.support.ui import Select
 from selenium.webdriver.common.action_chains import ActionChains
 
+RECOMMENDATION_SYSTEM_DOCKER_ADDRESS = config("RECOMMENDATION_SYSTEM_DOCKER_ADDRESS")
+RECOMMENDATION_SYSTEM_DEPLOY_ADDRESS=config("RECOMMENDATION_SYSTEM_DEPLOY_ADDRESS")
+RECOMMENDATION_SYSTEM_DJANGO_ADMIN_PASSWORD = config("RECOMMENDATION_SYSTEM_DJANGO_ADMIN_PASSWORD")
+RECOMMENDATION_SYSTEM_DJANGO_ADMIN_NAME = config("RECOMMENDATION_SYSTEM_DJANGO_ADMIN_NAME")
+
 class TestRecommendation(unittest.TestCase):
 	def setUp(self):
 	    profile = webdriver.FirefoxProfile()
@@ -15,14 +20,14 @@ class TestRecommendation(unittest.TestCase):
 	    profile.update_preferences()
 	    profile.default_preferences['network.proxy.type']=0
 	    #self.driver = webdriver.Firefox(profile)
-	    self.docker_address = config("ADDRESS")
-	    self.address=config("DEPLOY_ADDRESS")
-	    self.driver = webdriver.Remote(command_executor='http://'+self.docker_address+':4444/wd/hub',desired_capabilities=DesiredCapabilities.FIREFOX)#,browser_profile=profile)
-	    self.pwd = config("DJANGO_ADMIN_PASSWORD")
-	    self.user = config("DJANGO_ADMIN_NAME")
-	    # print(self.user)
-	    # print(self.pwd)
-	    # print(self.address)
+	    # RECOMMENDATION_SYSTEM_DOCKER_ADDRESS = config("ADDRESS")
+	    # RECOMMENDATION_SYSTEM_DEPLOY_ADDRESS=config("DEPLOY_ADDRESS")
+	    self.driver = webdriver.Remote(command_executor='http://'+RECOMMENDATION_SYSTEM_DOCKER_ADDRESS+':4444/wd/hub',desired_capabilities=DesiredCapabilities.FIREFOX)#,browser_profile=profile)
+	    # RECOMMENDATION_SYSTEM_DJANGO_ADMIN_PASSWORD = config("DJANGO_ADMIN_PASSWORD")
+	    # RECOMMENDATION_SYSTEM_DJANGO_ADMIN_NAME = config("DJANGO_ADMIN_NAME")
+	    # print(RECOMMENDATION_SYSTEM_DJANGO_ADMIN_NAME)
+	    # print(RECOMMENDATION_SYSTEM_DJANGO_ADMIN_PASSWORD)
+	    # print(RECOMMENDATION_SYSTEM_DEPLOY_ADDRESS)
 
 	    self.test_community=['test_community_'+str(i) for i in range(1,3)]
 	    self.test_user=['test_user_'+str(i) for i in range(1,4)]
@@ -34,12 +39,12 @@ class TestRecommendation(unittest.TestCase):
 	    # After above views by test_user_3 checking recommendation in test_user_3 for all articles
 	    self.min_recommendation=int(config('MINIMUM_RECOMMENDATION_PERCENTAGE'))
 	    self.master_password='selenium123'
-	    self.django_admin_link="http://" + self.address+ "/admin"
-	    self.community_link="http://" + self.address+ "/communities/"
-	    self.login_link="http://" + self.address+ "/login/?next=/"
-	    self.articles_link="http://" + self.address+ "/articles"
-	    self.logout_link="http://" + self.address+ "/logout/"
-	    self.django_admin_link_logout="http://" + self.address+ "/admin/logout"
+	    self.django_admin_link="http://" + RECOMMENDATION_SYSTEM_DEPLOY_ADDRESS+ "/admin"
+	    self.community_link="http://" + RECOMMENDATION_SYSTEM_DEPLOY_ADDRESS+ "/communities/"
+	    self.login_link="http://" + RECOMMENDATION_SYSTEM_DEPLOY_ADDRESS+ "/login/?next=/"
+	    self.articles_link="http://" + RECOMMENDATION_SYSTEM_DEPLOY_ADDRESS+ "/articles"
+	    self.logout_link="http://" + RECOMMENDATION_SYSTEM_DEPLOY_ADDRESS+ "/logout/"
+	    self.django_admin_link_logout="http://" + RECOMMENDATION_SYSTEM_DEPLOY_ADDRESS+ "/admin/logout"
 	    self.number_of_pages=-1
 	    self.id_comm_article_1=[]
 	    self.id_comm_article_2=[]
@@ -47,10 +52,10 @@ class TestRecommendation(unittest.TestCase):
 	    self.driver.implicitly_wait(2000) #gives an implicit wait for 2 seconds
 
 	    for i in range(len(self.test_article_community_1)):
-	    	self.create_views(self.user,self.pwd,self.test_article_community_1[i])
+	    	self.create_views(RECOMMENDATION_SYSTEM_DJANGO_ADMIN_NAME,RECOMMENDATION_SYSTEM_DJANGO_ADMIN_PASSWORD,self.test_article_community_1[i])
 
 	    for i in range(len(self.test_article_community_2)):
-	    	self.create_views(self.user,self.pwd,self.test_article_community_2[i])	    
+	    	self.create_views(RECOMMENDATION_SYSTEM_DJANGO_ADMIN_NAME,RECOMMENDATION_SYSTEM_DJANGO_ADMIN_PASSWORD,self.test_article_community_2[i])	    
 
 	    for i in range(len(self.test_user)):
 	    	self.log_in(self.test_user[i],self.master_password)
@@ -111,7 +116,7 @@ class TestRecommendation(unittest.TestCase):
 			self.id_comm_article_2=[article_id_1+i for i in range(6,12)]
 			e.click()
 			self.driver.implicitly_wait(200)
-			# self.driver.get("http://" + self.address)
+			# self.driver.get("http://" + RECOMMENDATION_SYSTEM_DEPLOY_ADDRESS)
 			print("Viewed article "+name+"\n")
 		else:
 			self.view_article_by_id(name)
@@ -121,13 +126,13 @@ class TestRecommendation(unittest.TestCase):
 		if(name in self.test_article_community_1):
 			index_at=self.test_article_community_1.index(name)
 			article_id=self.id_comm_article_1[index_at]
-			article_link_by_id="http://" + self.address+ "/article-view/"+str(article_id)+"/"
+			article_link_by_id="http://" + RECOMMENDATION_SYSTEM_DEPLOY_ADDRESS+ "/article-view/"+str(article_id)+"/"
 			self.driver.get(article_link_by_id)
 			self.driver.implicitly_wait(500)
 		else:
 			index_at=self.test_article_community_2.index(name)
 			article_id=self.id_comm_article_2[index_at]
-			article_link_by_id="http://" + self.address+ "/article-view/"+str(article_id)+"/"
+			article_link_by_id="http://" + RECOMMENDATION_SYSTEM_DEPLOY_ADDRESS+ "/article-view/"+str(article_id)+"/"
 			self.driver.get(article_link_by_id)
 			self.driver.implicitly_wait(500)
 		print("Viewed an article "+name+" by id")

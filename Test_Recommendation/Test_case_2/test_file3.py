@@ -6,6 +6,12 @@ from selenium.webdriver.common.desired_capabilities import DesiredCapabilities
 from selenium.webdriver.support.ui import Select
 from selenium.webdriver.common.action_chains import ActionChains
 
+RECOMMENDATION_SYSTEM_DOCKER_ADDRESS = config("RECOMMENDATION_SYSTEM_DOCKER_ADDRESS")
+RECOMMENDATION_SYSTEM_DEPLOY_ADDRESS=config("RECOMMENDATION_SYSTEM_DEPLOY_ADDRESS")
+RECOMMENDATION_SYSTEM_DJANGO_ADMIN_PASSWORD = config("RECOMMENDATION_SYSTEM_DJANGO_ADMIN_PASSWORD")
+RECOMMENDATION_SYSTEM_DJANGO_ADMIN_NAME = config("RECOMMENDATION_SYSTEM_DJANGO_ADMIN_NAME")
+RECOMMENDATION_SYSTEM_MINIMUM_RECOMMENDATION_PERCENTAGE=int(config('RECOMMENDATION_SYSTEM_MINIMUM_RECOMMENDATION_PERCENTAGE'))
+
 class TestRecommendation(unittest.TestCase):
 	def setUp(self):
 	    profile = webdriver.FirefoxProfile()
@@ -15,14 +21,14 @@ class TestRecommendation(unittest.TestCase):
 	    profile.update_preferences()
 	    profile.default_preferences['network.proxy.type']=0
 	    #self.driver = webdriver.Firefox(profile)
-	    self.docker_address = config("ADDRESS")
-	    self.address=config("DEPLOY_ADDRESS")
-	    self.driver = webdriver.Remote(command_executor='http://'+self.docker_address+':4444/wd/hub',desired_capabilities=DesiredCapabilities.FIREFOX)#,browser_profile=profile)
-	    self.pwd = config("DJANGO_ADMIN_PASSWORD")
-	    self.user = config("DJANGO_ADMIN_NAME")
-	    # print(self.user)
-	    # print(self.pwd)
-	    # print(self.address)
+	    # RECOMMENDATION_SYSTEM_DOCKER_ADDRESS = config("ADDRESS")
+	    # RECOMMENDATION_SYSTEM_DEPLOY_ADDRESS=config("DEPLOY_ADDRESS")
+	    self.driver = webdriver.Remote(command_executor='http://'+RECOMMENDATION_SYSTEM_DOCKER_ADDRESS+':4444/wd/hub',desired_capabilities=DesiredCapabilities.FIREFOX)#,browser_profile=profile)
+	    # RECOMMENDATION_SYSTEM_DJANGO_ADMIN_PASSWORD = config("DJANGO_ADMIN_PASSWORD")
+	    # RECOMMENDATION_SYSTEM_DJANGO_ADMIN_NAME = config("DJANGO_ADMIN_NAME")
+	    # print(RECOMMENDATION_SYSTEM_DJANGO_ADMIN_NAME)
+	    # print(RECOMMENDATION_SYSTEM_DJANGO_ADMIN_PASSWORD)
+	    # print(RECOMMENDATION_SYSTEM_DEPLOY_ADDRESS)
 
 	    self.test_community=['test_community_'+str(i) for i in range(1,3)]
 	    self.test_user=['test_user_'+str(i) for i in range(1,4)]
@@ -32,14 +38,14 @@ class TestRecommendation(unittest.TestCase):
 	    self.number_of_views_2=[9,7,1,0,0,0]  # by test_user_2 in test_community_2 articles'
 	    self.number_of_views_by_user_31=[0,1,2,1,0,0] # number of views by user 3 to test_community_1 articles'
 	    # After above views by test_user_3 checking recommendation in test_user_3 for all articles
-	    self.min_recommendation=int(config('MINIMUM_RECOMMENDATION_PERCENTAGE'))
+	    # RECOMMENDATION_SYSTEM_MINIMUM_RECOMMENDATION_PERCENTAGE=int(config('MINIMUM_RECOMMENDATION_PERCENTAGE'))
 	    self.master_password='selenium123'
-	    self.django_admin_link="http://" + self.address+ "/admin"
-	    self.community_link="http://" + self.address+ "/communities/"
-	    self.login_link="http://" + self.address+ "/login/?next=/"
-	    self.articles_link="http://" + self.address+ "/articles"
-	    self.logout_link="http://" + self.address+ "/logout/"
-	    self.django_admin_link_logout="http://" + self.address+ "/admin/logout"
+	    self.django_admin_link="http://" + RECOMMENDATION_SYSTEM_DEPLOY_ADDRESS+ "/admin"
+	    self.community_link="http://" + RECOMMENDATION_SYSTEM_DEPLOY_ADDRESS+ "/communities/"
+	    self.login_link="http://" + RECOMMENDATION_SYSTEM_DEPLOY_ADDRESS+ "/login/?next=/"
+	    self.articles_link="http://" + RECOMMENDATION_SYSTEM_DEPLOY_ADDRESS+ "/articles"
+	    self.logout_link="http://" + RECOMMENDATION_SYSTEM_DEPLOY_ADDRESS+ "/logout/"
+	    self.django_admin_link_logout="http://" + RECOMMENDATION_SYSTEM_DEPLOY_ADDRESS+ "/admin/logout"
 
 
 
@@ -75,7 +81,7 @@ class TestRecommendation(unittest.TestCase):
 				break
 		elem1.find_element_by_link_text(name).click()
 		self.driver.implicitly_wait(500)
-		#self.driver.get("http://" + self.address)
+		#self.driver.get("http://" + RECOMMENDATION_SYSTEM_DEPLOY_ADDRESS)
 		print("Viewed article "+name+"\n")
 
 	def log_in(self,name,pwd):
@@ -117,9 +123,9 @@ class TestRecommendation(unittest.TestCase):
 			print("Number of articles from test community 1 in the recommendation of test user 3: ",number_of_community_article_1)
 			print("Number of articles from test community 2 in the recommendation of test user 3: ",number_of_community_article_2)
 			print("Number of articles from other community(other than test community 1 and test community 2) in the recommendation of test user 3: ",number_of_other_community_article)
-			reco_factor=int(config('MINIMUM_RECOMMENDATION_PERCENTAGE'))
+			# RECOMMENDATION_SYSTEM_MINIMUM_RECOMMENDATION_PERCENTAGE=int(config('MINIMUM_RECOMMENDATION_PERCENTAGE'))
 			actual_reco_factor=number_of_community_article_1/len(elem1)*100
-			if(actual_reco_factor>=reco_factor):
+			if(actual_reco_factor>=RECOMMENDATION_SYSTEM_MINIMUM_RECOMMENDATION_PERCENTAGE):
 				self.assertEqual(True,True)
 			else:
 				self.assertEqual(True,False)
