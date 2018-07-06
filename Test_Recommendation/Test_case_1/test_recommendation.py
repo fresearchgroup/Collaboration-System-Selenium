@@ -3,16 +3,16 @@ from selenium import webdriver
 from decouple import config
 from selenium.webdriver.common.desired_capabilities import DesiredCapabilities
 
-RECOMMENDATION_SYSTEM_DOCKER_ADDRESS = config("RECOMMENDATION_SYSTEM_ADDRESS")
+RECOMMENDATION_SYSTEM_DOCKER_ADDRESS = config("RECOMMENDATION_SYSTEM_DOCKER_ADDRESS")
 RECOMMENDATION_SYSTEM_DEPLOY_ADDRESS=config("RECOMMENDATION_SYSTEM_DEPLOY_ADDRESS")
 RECOMMENDATION_SYSTEM_PASSWORD = config("RECOMMENDATION_SYSTEM_PASSWORD")
 RECOMMENDATION_SYSTEM_NAME = config("RECOMMENDATION_SYSTEM_NAME")
 
 class TestRecommendation(unittest.TestCase):
     def setUp(self):
-        #self.driver = webdriver.Firefox()
+        # self.driver = webdriver.Firefox()
 	    # RECOMMENDATION_SYSTEM_DOCKER_ADDRESS = config("RECOMMENDATION_SYSTEM_ADDRESS")
-	    self.driver = webdriver.Remote(command_executor='http://'+RECOMMENDATION_SYSTEM_DOCKER_ADDRESS+':4444/wd/hub',desired_capabilities=DesiredCapabilities.FIREFOX)
+        self.driver = webdriver.Remote(command_executor='http://'+RECOMMENDATION_SYSTEM_DOCKER_ADDRESS+':4444/wd/hub',desired_capabilities=DesiredCapabilities.FIREFOX)
         # RECOMMENDATION_SYSTEM_DEPLOY_ADDRESS=config("RECOMMENDATION_SYSTEM_DEPLOY_ADDRESS")
         # RECOMMENDATION_SYSTEM_PASSWORD = config("RECOMMENDATION_SYSTEM_PASSWORD")
         # RECOMMENDATION_SYSTEM_NAME = config("RECOMMENDATION_SYSTEM_NAME")
@@ -38,8 +38,8 @@ class TestRecommendation(unittest.TestCase):
         self.driver.get(self.article_link)
         self.driver.implicitly_wait(2000)
         elem = self.driver.find_elements_by_tag_name('h3')
-        RECOMMENDATION_SYSTEM_NAME=elem[0].text
-        self.driver.find_element_by_link_text(RECOMMENDATION_SYSTEM_NAME).click()
+        name=elem[0].text
+        self.driver.find_element_by_link_text(name).click()
         self.driver.implicitly_wait(2000)
         elem=self.driver.find_elements_by_class_name('alert.alert-info')[1]
         elem1=elem.find_elements_by_tag_name('h5')
@@ -55,8 +55,8 @@ class TestRecommendation(unittest.TestCase):
             self.driver.get(self.article_link)
             self.driver.implicitly_wait(2000)
             elem = self.driver.find_elements_by_tag_name('h3')
-            RECOMMENDATION_SYSTEM_NAME=elem[0].text
-            self.driver.find_element_by_link_text(RECOMMENDATION_SYSTEM_NAME).click()
+            name=elem[0].text
+            self.driver.find_element_by_link_text(name).click()
             self.driver.implicitly_wait(2000)
             elem=self.driver.find_elements_by_class_name('alert.alert-info')[1]
             elem1=elem.find_elements_by_tag_name('h5')
