@@ -13,8 +13,8 @@ class LoginCorrect(unittest.TestCase):
         
 
     def test_LoginCorrect(self):
-        user ="testuser"
-        pwd= "collaborative"
+        user ="honey"
+        pwd= "root1234"
         driver = webdriver.Remote(command_executor='http://10.129.132.104:4444/wd/hub', desired_capabilities=DesiredCapabilities.FIREFOX) 
 
         #driver = webdriver.Firefox()
