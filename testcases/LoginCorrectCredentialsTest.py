@@ -18,7 +18,7 @@ class LoginCorrect(unittest.TestCase):
         driver = webdriver.Remote(command_executor='http://10.129.132.104:4444/wd/hub', desired_capabilities=DesiredCapabilities.FIREFOX) 
 
         #driver = webdriver.Firefox()
-        driver.get("http://10.129.26.119//login")
+        driver.get("http://10.129.27.30//login")
         elem = driver.find_element_by_id("id_username")
         elem.send_keys(user)
         elem = driver.find_element_by_id("id_password")
