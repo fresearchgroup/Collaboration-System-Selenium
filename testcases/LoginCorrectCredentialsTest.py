@@ -19,9 +19,9 @@ class LoginCorrect(unittest.TestCase):
 
         #driver = webdriver.Firefox()
         driver.get("http://10.129.27.30:7000//login")
-        elem = driver.find_element_by_id("id_username")
+        elem = driver.find_element_by_id("username")
         elem.send_keys(user)
-        elem = driver.find_element_by_id("id_password")
+        elem = driver.find_element_by_id("password")
         elem.send_keys(pwd)
         driver.find_element_by_class_name('btn-block').click()
 
