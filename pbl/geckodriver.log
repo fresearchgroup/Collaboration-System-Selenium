@@ -1,0 +1,779 @@
+1530039461559	geckodriver	INFO	geckodriver 0.20.1
+1530039461594	geckodriver	INFO	Listening on 127.0.0.1:53513
+1530039462576	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.t5sxXLrxnPng"
+1530039479563	Marionette	INFO	Listening on port 45318
+1530039479576	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530042155450	geckodriver	INFO	geckodriver 0.20.1
+1530042155498	geckodriver	INFO	Listening on 127.0.0.1:35042
+1530042156435	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.HByxs4I4LxaX"
+1530042159958	Marionette	INFO	Listening on port 43704
+1530042159973	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530042642868	geckodriver	INFO	geckodriver 0.21.0
+1530042642878	geckodriver	INFO	Listening on 127.0.0.1:37125
+1530042643882	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.ZuDl7OvXSthA"
+1530042647411	Marionette	INFO	Listening on port 43463
+1530042647498	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530042734398	geckodriver	INFO	geckodriver 0.21.0
+1530042734417	geckodriver	INFO	Listening on 127.0.0.1:52989
+1530042735405	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.h5cnVr7rfQV3"
+1530042743017	Marionette	INFO	Listening on port 36605
+1530042743063	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530042847963	geckodriver	INFO	geckodriver 0.21.0
+1530042847974	geckodriver	INFO	Listening on 127.0.0.1:41756
+1530042848980	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.f8o5xVVyXKRh"
+1530042853407	Marionette	INFO	Listening on port 35928
+1530042853469	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530042916791	geckodriver	INFO	geckodriver 0.21.0
+1530042916796	geckodriver	INFO	Listening on 127.0.0.1:36699
+1530042917807	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.eZkAE8CNMnX4"
+1530042923215	Marionette	INFO	Listening on port 42146
+1530042923314	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530043108054	geckodriver	INFO	geckodriver 0.21.0
+1530043108216	geckodriver	INFO	Listening on 127.0.0.1:60480
+1530043108977	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.7IYFrgNFL6gT"
+1530043124876	Marionette	INFO	Listening on port 42612
+1530043124929	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://192.168.211.129:8001/dashboard/, line 23: ReferenceError: requirejs is not defined
+JavaScript error: http://192.168.211.129:8001/templates/dist/assets/js/dashboard.js, line 1: ReferenceError: require is not defined
+JavaScript error: http://192.168.211.129:8001/templates/dist/assets/plugins/charts-c3/plugin.js, line 1: ReferenceError: require is not defined
+JavaScript error: http://192.168.211.129:8001/templates/dist/assets/plugins/input-mask/plugin.js, line 1: ReferenceError: require is not defined
+1530043331120	geckodriver	INFO	geckodriver 0.21.0
+1530043331161	geckodriver	INFO	Listening on 127.0.0.1:45544
+1530043332176	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.FtthYTERJDDz"
+1530043348570	Marionette	INFO	Listening on port 33459
+1530043348640	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530043447325	geckodriver	INFO	geckodriver 0.21.0
+1530043447333	geckodriver	INFO	Listening on 127.0.0.1:35628
+1530043447754	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.CCBsriTRo2uN"
+1530043453436	Marionette	INFO	Listening on port 36523
+1530043453662	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 19450, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox-d34xn2/firefox-60.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Parent 19450, Gecko_IOThread] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-d34xn2/firefox-60.0.2+build1/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc, line 22
+[Parent 19450, Gecko_IOThread] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-d34xn2/firefox-60.0.2+build1/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc, line 22
+[Parent 19450, Gecko_IOThread] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-d34xn2/firefox-60.0.2+build1/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc, line 22
+[Parent 19450, Gecko_IOThread] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-d34xn2/firefox-60.0.2+build1/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc, line 22
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Parent 19450, Gecko_IOThread] WARNING: pipe error (90): Connection reset by peer: file /build/firefox-d34xn2/firefox-60.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Parent 19450, Gecko_IOThread] WARNING: pipe error (111): Connection reset by peer: file /build/firefox-d34xn2/firefox-60.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Parent 19450, Gecko_IOThread] WARNING: pipe error (125): Connection reset by peer: file /build/firefox-d34xn2/firefox-60.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Parent 19450, Gecko_IOThread] WARNING: pipe error (133): Connection reset by peer: file /build/firefox-d34xn2/firefox-60.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+ExceptionHandler::GenerateDump cloned child 20114
+ExceptionHandler::SendContinueSignalToChild sent continue signal to child
+ExceptionHandler::WaitForContinueSignal waiting for continue signal...
+ExceptionHandler::GenerateDump cloned child 20117
+ExceptionHandler::SendContinueSignalToChild sent continue signal to child
+ExceptionHandler::WaitForContinueSignal waiting for continue signal...
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+ExceptionHandler::GenerateDump cloned child 20122
+ExceptionHandler::SendContinueSignalToChild sent continue signal to child
+ExceptionHandler::WaitForContinueSignal waiting for continue signal...
+[Parent 17051, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox-d34xn2/firefox-60.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Parent 17051, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox-d34xn2/firefox-60.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Parent 17051, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox-d34xn2/firefox-60.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Parent 17051, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox-d34xn2/firefox-60.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+ExceptionHandler::GenerateDump cloned child 20126
+ExceptionHandler::SendContinueSignalToChild sent continue signal to child
+ExceptionHandler::WaitForContinueSignal waiting for continue signal...
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x2C004D,name=PContent::Msg_BlobURLUnregistration) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x2C004D,name=PContent::Msg_BlobURLUnregistration) Closed channel: cannot send/recv
+
+ExceptionHandler::GenerateDump cloned child 20128
+ExceptionHandler::SendContinueSignalToChild sent continue signal to child
+ExceptionHandler::WaitForContinueSignal waiting for continue signal...
+[Child 16303, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-d34xn2/firefox-60.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+JavaScript error: resource:///modules/sessionstore/SessionSaver.jsm, line 180: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIAppShellService.hiddenDOMWindow]
+ExceptionHandler::GenerateDump cloned child 20699
+ExceptionHandler::SendContinueSignalToChild sent continue signal to child
+ExceptionHandler::WaitForContinueSignal waiting for continue signal...
+1530103271514	geckodriver	INFO	geckodriver 0.21.0
+1530103271766	geckodriver	INFO	Listening on 127.0.0.1:56110
+1530103272594	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.nEQt9ARPD4Lx"
+1530103306381	Marionette	INFO	Listening on port 43953
+1530103306473	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1530103422893	geckodriver	INFO	geckodriver 0.21.0
+1530103422919	geckodriver	INFO	Listening on 127.0.0.1:50457
+1530103423935	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Pp8jCvooJql2"
+1530103430158	Marionette	INFO	Listening on port 44709
+1530103430241	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530103430491	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/SnippetsFeed.jsm :: uninit :: line 185"  data: no] Stack trace: uninit()@resource://activity-stream/lib/SnippetsFeed.jsm:185
+onAction()@resource://activity-stream/lib/SnippetsFeed.jsm:201
+_middleware/</<()@resource://activity-stream/lib/Store.jsm:49
+Store/this[method]()@resource://activity-stream/lib/Store.jsm:28
+uninit()@resource://activity-stream/lib/Store.jsm:151
+uninit()@resource://activity-stream/lib/ActivityStream.jsm:300
+uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:73
+shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:169
+callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4436
+observe()@resource://gre/modules/addons/XPIProvider.jsm:2287
+GeckoDriver.prototype.quit()@driver.js:3300
+despatch()@server.js:293
+execute()@server.js:267
+onPacket/<()@server.js:242
+onPacket()@server.js:241
+_onJSONObjectReady/<()@transport.js:500
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1530103445165	geckodriver	INFO	geckodriver 0.21.0
+1530103445173	geckodriver	INFO	Listening on 127.0.0.1:55064
+1530103446196	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.x8y0t4C5Ia3U"
+1530103450829	Marionette	INFO	Listening on port 35122
+1530103450865	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530103450996	geckodriver	INFO	geckodriver 0.21.0
+1530103451019	geckodriver	INFO	Listening on 127.0.0.1:55491
+1530103452001	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.4CwNQbq8ZSiy"
+1530103462470	Marionette	INFO	Listening on port 38490
+1530103462719	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://browser/content/browser.js, line 7044: TypeError: cannot use the given object as a weak map key
+1530103611588	geckodriver	INFO	geckodriver 0.21.0
+1530103611598	geckodriver	INFO	Listening on 127.0.0.1:41044
+1530103612609	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.AaLnQfgLzLOT"
+1530103617395	Marionette	INFO	Listening on port 46554
+1530103617492	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530103617839	geckodriver	INFO	geckodriver 0.21.0
+1530103617877	geckodriver	INFO	Listening on 127.0.0.1:58546
+1530103618843	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.nOVplf0Vfagk"
+1530103623711	Marionette	INFO	Listening on port 42579
+1530103623783	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://localhost:8001/dashboard/, line 23: ReferenceError: requirejs is not defined
+JavaScript error: http://localhost:8001/templates/dist/assets/js/dashboard.js, line 1: ReferenceError: require is not defined
+JavaScript error: http://localhost:8001/templates/dist/assets/plugins/charts-c3/plugin.js, line 1: ReferenceError: require is not defined
+JavaScript error: http://localhost:8001/templates/dist/assets/plugins/input-mask/plugin.js, line 1: ReferenceError: require is not defined
+1530103809280	geckodriver	INFO	geckodriver 0.21.0
+1530103809289	geckodriver	INFO	Listening on 127.0.0.1:52888
+1530103810298	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.0vtaiRjA2xHv"
+1530103817988	Marionette	INFO	Listening on port 36806
+1530103818079	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530103818277	geckodriver	INFO	geckodriver 0.21.0
+1530103818296	geckodriver	INFO	Listening on 127.0.0.1:48642
+1530103819427	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.QGtdr7zrzMLU"
+1530103827844	Marionette	INFO	Listening on port 35443
+1530103827970	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://localhost:8001/dashboard/, line 23: ReferenceError: requirejs is not defined
+JavaScript error: http://localhost:8001/templates/dist/assets/js/dashboard.js, line 1: ReferenceError: require is not defined
+JavaScript error: http://localhost:8001/templates/dist/assets/plugins/charts-c3/plugin.js, line 1: ReferenceError: require is not defined
+JavaScript error: http://localhost:8001/templates/dist/assets/plugins/input-mask/plugin.js, line 1: ReferenceError: require is not defined
+1530104089838	geckodriver	INFO	geckodriver 0.21.0
+1530104089847	geckodriver	INFO	Listening on 127.0.0.1:38475
+1530104090861	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.2TKGwInlveDU"
+1530104098491	Marionette	INFO	Listening on port 35500
+1530104098976	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530104101755	geckodriver	INFO	geckodriver 0.21.0
+1530104101789	geckodriver	INFO	Listening on 127.0.0.1:59009
+1530104102761	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.ECZS7WWlP10L"
+1530104114192	Marionette	INFO	Listening on port 36766
+1530104114405	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:10224): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+JavaScript error: http://localhost:8001/dashboard/, line 23: ReferenceError: requirejs is not defined
+JavaScript error: http://localhost:8001/templates/dist/assets/js/dashboard.js, line 1: ReferenceError: require is not defined
+JavaScript error: http://localhost:8001/templates/dist/assets/plugins/charts-c3/plugin.js, line 1: ReferenceError: require is not defined
+JavaScript error: http://localhost:8001/templates/dist/assets/plugins/input-mask/plugin.js, line 1: ReferenceError: require is not defined
+1530107303787	geckodriver	INFO	geckodriver 0.21.0
+1530107303845	geckodriver	INFO	Listening on 127.0.0.1:36355
+1530107304731	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.PeK2fdEcTQi9"
+1530107316355	Marionette	INFO	Listening on port 43571
+1530107316457	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1530107361348	geckodriver	INFO	geckodriver 0.21.0
+1530107361361	geckodriver	INFO	Listening on 127.0.0.1:40800
+1530107362376	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.FpgZl7dFjYd9"
+1530107365965	Marionette	INFO	Listening on port 40836
+1530107366045	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1530107405374	geckodriver	INFO	geckodriver 0.21.0
+1530107405382	geckodriver	INFO	Listening on 127.0.0.1:57367
+1530107406404	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.EmkJUT0MRmR8"
+1530107409803	Marionette	INFO	Listening on port 36340
+1530107409868	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1530107416181	geckodriver	INFO	geckodriver 0.21.0
+1530107416188	geckodriver	INFO	Listening on 127.0.0.1:44410
+1530107417188	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.I9v8pOeFy4Tc"
+1530107420350	Marionette	INFO	Listening on port 40714
+1530107420439	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1530107463159	geckodriver	INFO	geckodriver 0.21.0
+1530107463173	geckodriver	INFO	Listening on 127.0.0.1:42358
+1530107464189	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.vrSepabnen9W"
+1530107467342	Marionette	INFO	Listening on port 36138
+1530107467433	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1530107507002	geckodriver	INFO	geckodriver 0.21.0
+1530107507009	geckodriver	INFO	Listening on 127.0.0.1:58098
+1530107508014	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.51uT3QzVMDfc"
+1530107511248	Marionette	INFO	Listening on port 37198
+1530107511364	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://localhost:8001/templates/dist/assets/js/require.min.js, line 5: Error: Script error for "bootstrap"
+http://requirejs.org/docs/errors.html#scripterror
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1530107943286	geckodriver	INFO	geckodriver 0.21.0
+1530107943291	geckodriver	INFO	Listening on 127.0.0.1:52929
+1530107944309	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.c17l5QIDMzoc"
+1530107947622	Marionette	INFO	Listening on port 42076
+1530107947698	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1530107991021	geckodriver	INFO	geckodriver 0.21.0
+1530107991027	geckodriver	INFO	Listening on 127.0.0.1:35741
+1530107992035	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.wh9eq9gsLKBj"
+1530107995114	Marionette	INFO	Listening on port 38977
+1530107995196	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1530108038412	geckodriver	INFO	geckodriver 0.21.0
+1530108038421	geckodriver	INFO	Listening on 127.0.0.1:57328
+1530108039435	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.50JYEnF0HAvd"
+1530108042823	Marionette	INFO	Listening on port 40680
+1530108042892	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1530108086386	geckodriver	INFO	geckodriver 0.21.0
+1530108086391	geckodriver	INFO	Listening on 127.0.0.1:39997
+1530108087406	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.O0Mdar48HdHg"
+1530108090623	Marionette	INFO	Listening on port 33053
+1530108090659	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://localhost:8001/dashboard/, line 23: ReferenceError: requirejs is not defined
+JavaScript error: http://localhost:8001/templates/dist/assets/js/dashboard.js, line 1: ReferenceError: require is not defined
+JavaScript error: http://localhost:8001/templates/dist/assets/plugins/charts-c3/plugin.js, line 1: ReferenceError: require is not defined
+JavaScript error: http://localhost:8001/templates/dist/assets/plugins/input-mask/plugin.js, line 1: ReferenceError: require is not defined
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1530108095686	geckodriver	INFO	geckodriver 0.21.0
+1530108095691	geckodriver	INFO	Listening on 127.0.0.1:37430
+1530108096701	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.lwcdgJF7kQv5"
+1530108099838	Marionette	INFO	Listening on port 33090
+1530108099959	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1530108102269	geckodriver	INFO	geckodriver 0.21.0
+1530108102281	geckodriver	INFO	Listening on 127.0.0.1:38698
+1530108103286	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.dcSamOO7rgPb"
+1530108106667	Marionette	INFO	Listening on port 43028
+1530108106717	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://localhost:8001/templates/dist/assets/js/require.min.js, line 5: Error: Script error for "bootstrap"
+http://requirejs.org/docs/errors.html#scripterror
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1530108165803	geckodriver	INFO	geckodriver 0.21.0
+1530108165809	geckodriver	INFO	Listening on 127.0.0.1:34517
+1530108166830	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.uA6cd1C1J0ee"
+1530108170239	Marionette	INFO	Listening on port 41305
+1530108170348	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://localhost:8001/templates/dist/assets/js/require.min.js, line 5: Error: Script error for "bootstrap"
+http://requirejs.org/docs/errors.html#scripterror
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1530108173317	geckodriver	INFO	geckodriver 0.21.0
+1530108173322	geckodriver	INFO	Listening on 127.0.0.1:48451
+1530108174322	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.BMaDXAt9iYeA"
+1530108177816	Marionette	INFO	Listening on port 45415
+1530108177946	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1530108184673	geckodriver	INFO	geckodriver 0.21.0
+1530108184679	geckodriver	INFO	Listening on 127.0.0.1:49504
+1530108185678	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.5nhjonj9irm0"
+1530108189122	Marionette	INFO	Listening on port 39809
+1530108189214	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1530108192391	geckodriver	INFO	geckodriver 0.21.0
+1530108192400	geckodriver	INFO	Listening on 127.0.0.1:40829
+1530108193396	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.pXHCcajHSEY9"
+1530108197000	Marionette	FATAL	Remote protocol server failed to start: Error: Could not bind to port 42526 (NS_ERROR_SOCKET_ADDRESS_IN_USE) (chrome://marionette/content/server.js:87:17) JS Stack trace: set acceptConnections@server.js:87:17
+start@server.js:116:5
+init/<@marionette.js:537:9
+1530108197039	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/SnippetsFeed.jsm :: uninit :: line 185"  data: no] Stack trace: uninit()@resource://activity-stream/lib/SnippetsFeed.jsm:185
+onAction()@resource://activity-stream/lib/SnippetsFeed.jsm:201
+_middleware/</<()@resource://activity-stream/lib/Store.jsm:49
+Store/this[method]()@resource://activity-stream/lib/Store.jsm:28
+uninit()@resource://activity-stream/lib/Store.jsm:151
+uninit()@resource://activity-stream/lib/ActivityStream.jsm:300
+uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:73
+shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:169
+callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4436
+observe()@resource://gre/modules/addons/XPIProvider.jsm:2287
+init/<()@jar:file:///usr/lib/firefox/omni.ja!/components/marionette.js:542
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/marionette.js, line 547: TypeError: this.server is null
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1530108372404	geckodriver	INFO	geckodriver 0.21.0
+1530108372409	geckodriver	INFO	Listening on 127.0.0.1:59582
+1530108373422	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.K22UzRIAsxAY"
+1530108376535	Marionette	INFO	Listening on port 32998
+1530108376561	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://localhost:8001/templates/dist/assets/js/require.min.js, line 5: Error: Script error for "bootstrap"
+http://requirejs.org/docs/errors.html#scripterror
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1530108421613	geckodriver	INFO	geckodriver 0.21.0
+1530108421624	geckodriver	INFO	Listening on 127.0.0.1:49285
+1530108422636	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.3PALHlzdyamF"
+1530108425762	Marionette	INFO	Listening on port 38691
+1530108425878	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1530108431215	geckodriver	INFO	geckodriver 0.21.0
+1530108431220	geckodriver	INFO	Listening on 127.0.0.1:32903
+1530108432220	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Lfak3oCmFMCi"
+1530108435404	Marionette	INFO	Listening on port 46473
+1530108435510	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1530108477027	geckodriver	INFO	geckodriver 0.21.0
+1530108477037	geckodriver	INFO	Listening on 127.0.0.1:44090
+1530108478043	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.OoAhAZfTD8zd"
+1530108481246	Marionette	INFO	Listening on port 46470
+1530108481305	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1530108488555	geckodriver	INFO	geckodriver 0.21.0
+1530108488565	geckodriver	INFO	Listening on 127.0.0.1:36625
+1530108489573	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.fDlLcdjS3TTu"
+1530108492675	Marionette	INFO	Listening on port 42420
+1530108492740	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1530108534483	geckodriver	INFO	geckodriver 0.21.0
+1530108534494	geckodriver	INFO	Listening on 127.0.0.1:58534
+1530108535494	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.zRsjjyJSHP5K"
+1530108538814	Marionette	INFO	Listening on port 44605
+1530108538931	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://localhost:8001/templates/dist/assets/js/require.min.js, line 5: Error: Script error for "bootstrap"
+http://requirejs.org/docs/errors.html#scripterror
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1530109722744	geckodriver	INFO	geckodriver 0.21.0
+1530109722749	geckodriver	INFO	Listening on 127.0.0.1:49101
+1530109723772	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.kL1xfiN4mGoF"
+1530109729760	Marionette	INFO	Listening on port 39717
+1530109729802	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530109771759	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1530109772452	geckodriver	INFO	geckodriver 0.21.0
+1530109772457	geckodriver	INFO	Listening on 127.0.0.1:36004
+1530109773473	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.URZEjZLWXc1V"
+1530109777167	Marionette	INFO	Listening on port 38055
+1530109777220	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1530109817399	geckodriver	INFO	geckodriver 0.21.0
+1530109817405	geckodriver	INFO	Listening on 127.0.0.1:38078
+1530109818423	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.zhxM8PiwHUfb"
+1530109821582	Marionette	INFO	Listening on port 32966
+1530109821620	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1530109824502	geckodriver	INFO	geckodriver 0.21.0
+1530109824509	geckodriver	INFO	Listening on 127.0.0.1:53784
+1530109825516	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.2SC1yMFkRFxi"
+1530109828652	Marionette	INFO	Listening on port 42576
+1530109828783	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://localhost:8001/dashboard/, line 23: ReferenceError: requirejs is not defined
+JavaScript error: http://localhost:8001/templates/dist/assets/js/dashboard.js, line 1: ReferenceError: require is not defined
+JavaScript error: http://localhost:8001/templates/dist/assets/plugins/charts-c3/plugin.js, line 1: ReferenceError: require is not defined
+JavaScript error: http://localhost:8001/templates/dist/assets/plugins/input-mask/plugin.js, line 1: ReferenceError: require is not defined
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1530109873394	geckodriver	INFO	geckodriver 0.21.0
+1530109873399	geckodriver	INFO	Listening on 127.0.0.1:47724
+1530109874410	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.uKs77Bbmav2W"
+1530109877549	Marionette	INFO	Listening on port 45947
+1530109877644	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1530109921865	geckodriver	INFO	geckodriver 0.21.0
+1530109921870	geckodriver	INFO	Listening on 127.0.0.1:33603
+1530109922877	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.bfc3ryYEG2Mi"
+1530109926079	Marionette	INFO	Listening on port 33813
+1530109926115	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://localhost:8001/templates/dist/assets/js/require.min.js, line 5: Error: Script error for "bootstrap"
+http://requirejs.org/docs/errors.html#scripterror
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1530109948569	geckodriver	INFO	geckodriver 0.21.0
+1530109948575	geckodriver	INFO	Listening on 127.0.0.1:52855
+1530109949607	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.a9aRJxAhD98u"
+1530109952709	Marionette	INFO	Listening on port 38215
+1530109952789	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1530109996179	geckodriver	INFO	geckodriver 0.21.0
+1530109996197	geckodriver	INFO	Listening on 127.0.0.1:60526
+1530109997206	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.nVtw2Zq0JGIc"
+1530110000336	Marionette	INFO	Listening on port 38267
+1530110000458	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530110001852	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/SnippetsFeed.jsm :: uninit :: line 185"  data: no] Stack trace: uninit()@resource://activity-stream/lib/SnippetsFeed.jsm:185
+onAction()@resource://activity-stream/lib/SnippetsFeed.jsm:201
+_middleware/</<()@resource://activity-stream/lib/Store.jsm:49
+Store/this[method]()@resource://activity-stream/lib/Store.jsm:28
+uninit()@resource://activity-stream/lib/Store.jsm:151
+uninit()@resource://activity-stream/lib/ActivityStream.jsm:300
+uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:73
+shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:169
+callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4436
+observe()@resource://gre/modules/addons/XPIProvider.jsm:2287
+GeckoDriver.prototype.quit()@driver.js:3300
+despatch()@server.js:293
+execute()@server.js:267
+onPacket/<()@server.js:242
+onPacket()@server.js:241
+_onJSONObjectReady/<()@transport.js:500
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1530110002860	geckodriver	INFO	geckodriver 0.21.0
+1530110002872	geckodriver	INFO	Listening on 127.0.0.1:52729
+1530110003868	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.csVhSijKmEAe"
+1530110007129	Marionette	INFO	Listening on port 33228
+1530110007215	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530110008559	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/SnippetsFeed.jsm :: uninit :: line 185"  data: no] Stack trace: uninit()@resource://activity-stream/lib/SnippetsFeed.jsm:185
+onAction()@resource://activity-stream/lib/SnippetsFeed.jsm:201
+_middleware/</<()@resource://activity-stream/lib/Store.jsm:49
+Store/this[method]()@resource://activity-stream/lib/Store.jsm:28
+uninit()@resource://activity-stream/lib/Store.jsm:151
+uninit()@resource://activity-stream/lib/ActivityStream.jsm:300
+uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:73
+shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:169
+callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4436
+observe()@resource://gre/modules/addons/XPIProvider.jsm:2287
+GeckoDriver.prototype.quit()@driver.js:3300
+despatch()@server.js:293
+execute()@server.js:267
+onPacket/<()@server.js:242
+onPacket()@server.js:241
+_onJSONObjectReady/<()@transport.js:500
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1530110009611	geckodriver	INFO	geckodriver 0.21.0
+1530110009618	geckodriver	INFO	Listening on 127.0.0.1:40510
+1530110010622	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.79AMWiViiW5b"
+1530110013784	Marionette	INFO	Listening on port 39732
+1530110013880	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://localhost:8001/dashboard/, line 23: ReferenceError: requirejs is not defined
+JavaScript error: http://localhost:8001/templates/dist/assets/js/dashboard.js, line 1: ReferenceError: require is not defined
+JavaScript error: http://localhost:8001/templates/dist/assets/plugins/charts-c3/plugin.js, line 1: ReferenceError: require is not defined
+JavaScript error: http://localhost:8001/templates/dist/assets/plugins/input-mask/plugin.js, line 1: ReferenceError: require is not defined
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1530110018609	geckodriver	INFO	geckodriver 0.21.0
+1530110018622	geckodriver	INFO	Listening on 127.0.0.1:40436
+1530110019647	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.DgbuPvumMvSA"
+1530110023638	Marionette	INFO	Listening on port 37706
+1530110023729	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1530110063000	geckodriver	INFO	geckodriver 0.21.0
+1530110063005	geckodriver	INFO	Listening on 127.0.0.1:33118
+1530110064023	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.MjDcvK0ltMFY"
+1530110067186	Marionette	INFO	Listening on port 44786
+1530110067301	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://localhost:8001/templates/dist/assets/js/require.min.js, line 5: Error: Script error for "bootstrap"
+http://requirejs.org/docs/errors.html#scripterror
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1530110101017	geckodriver	INFO	geckodriver 0.21.0
+1530110101023	geckodriver	INFO	Listening on 127.0.0.1:37700
+1530110102049	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.leOj9CWERQc2"
+1530110105252	Marionette	INFO	Listening on port 37764
+1530110105313	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1530110145670	geckodriver	INFO	geckodriver 0.21.0
+1530110145675	geckodriver	INFO	Listening on 127.0.0.1:36156
+1530110146690	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.T7FaUz3b0uPC"
+1530110149829	Marionette	INFO	Listening on port 37633
+1530110149921	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530110209648	geckodriver	INFO	geckodriver 0.21.0
+1530110209658	geckodriver	INFO	Listening on 127.0.0.1:46822
+1530110210665	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.9WCg2om99I8k"
+1530110213791	Marionette	INFO	Listening on port 42132
+1530110213909	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530110514785	geckodriver	INFO	geckodriver 0.21.0
+1530110514800	geckodriver	INFO	Listening on 127.0.0.1:43539
+1530110515788	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.MrSySq1QCpge"
+1530110519324	Marionette	INFO	Listening on port 36821
+1530110519424	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://localhost:8001/dashboard/, line 23: ReferenceError: requirejs is not defined
+JavaScript error: http://localhost:8001/templates/dist/assets/js/dashboard.js, line 1: ReferenceError: require is not defined
+JavaScript error: http://localhost:8001/templates/dist/assets/plugins/charts-c3/plugin.js, line 1: ReferenceError: require is not defined
+JavaScript error: http://localhost:8001/templates/dist/assets/plugins/input-mask/plugin.js, line 1: ReferenceError: require is not defined
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1530110561207	geckodriver	INFO	geckodriver 0.21.0
+1530110561213	geckodriver	INFO	Listening on 127.0.0.1:35290
+1530110562225	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.1zoURbx6NVCJ"
+1530110565424	Marionette	INFO	Listening on port 40640
+1530110565505	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1530110609460	geckodriver	INFO	geckodriver 0.21.0
+1530110609469	geckodriver	INFO	Listening on 127.0.0.1:53234
+1530110610477	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.tT54LqpDKJIh"
+1530110613772	Marionette	INFO	Listening on port 34543
+1530110613860	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://localhost:8001/templates/dist/assets/js/require.min.js, line 5: Error: Script error for "bootstrap"
+http://requirejs.org/docs/errors.html#scripterror
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1530111020644	geckodriver	INFO	geckodriver 0.21.0
+1530111020650	geckodriver	INFO	Listening on 127.0.0.1:51321
+1530111021664	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.33EA1vlmi4JR"
+1530111025525	Marionette	INFO	Listening on port 41938
+1530111025669	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1530111030637	geckodriver	INFO	geckodriver 0.21.0
+1530111030647	geckodriver	INFO	Listening on 127.0.0.1:48614
+1530111031654	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.jn1jt9tOuayj"
+1530111035187	Marionette	INFO	Listening on port 43699
+1530111035234	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1530111038300	geckodriver	INFO	geckodriver 0.21.0
+1530111038311	geckodriver	INFO	Listening on 127.0.0.1:39771
+1530111039310	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.3pgtrivtjF9E"
+1530111042550	Marionette	INFO	Listening on port 39403
+1530111042683	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1530111082429	geckodriver	INFO	geckodriver 0.21.0
+1530111082435	geckodriver	INFO	Listening on 127.0.0.1:37577
+1530111083433	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.ba7PZaU63aIc"
+1530111086825	Marionette	INFO	Listening on port 37324
+1530111086894	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://localhost:8001/dashboard/, line 23: ReferenceError: requirejs is not defined
+JavaScript error: http://localhost:8001/templates/dist/assets/js/dashboard.js, line 1: ReferenceError: require is not defined
+JavaScript error: http://localhost:8001/templates/dist/assets/plugins/charts-c3/plugin.js, line 1: ReferenceError: require is not defined
+JavaScript error: http://localhost:8001/templates/dist/assets/plugins/input-mask/plugin.js, line 1: ReferenceError: require is not defined
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1530111130171	geckodriver	INFO	geckodriver 0.21.0
+1530111130177	geckodriver	INFO	Listening on 127.0.0.1:32808
+1530111131187	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.kjLDLW0laaLt"
+1530111134424	Marionette	INFO	Listening on port 42622
+1530111134571	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1530111140156	geckodriver	INFO	geckodriver 0.21.0
+1530111140161	geckodriver	INFO	Listening on 127.0.0.1:48469
+1530111141171	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.XOzJ4eI9ycMr"
+1530111144306	Marionette	INFO	Listening on port 38921
+1530111144397	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://localhost:8001/templates/dist/assets/js/require.min.js, line 5: Error: Script error for "bootstrap"
+http://requirejs.org/docs/errors.html#scripterror
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1530111197303	geckodriver	INFO	geckodriver 0.21.0
+1530111197308	geckodriver	INFO	Listening on 127.0.0.1:58421
+1530111198315	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.3pFa1vx8YJ21"
+1530111201449	Marionette	INFO	Listening on port 41057
+1530111201466	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1530111241810	geckodriver	INFO	geckodriver 0.21.0
+1530111241815	geckodriver	INFO	Listening on 127.0.0.1:35196
+1530111242824	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.wZUxxwllnaMq"
+1530111246091	Marionette	INFO	Listening on port 35094
+1530111246207	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1530111288735	geckodriver	INFO	geckodriver 0.21.0
+1530111288747	geckodriver	INFO	Listening on 127.0.0.1:54466
+1530111289748	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.T0dR9y8kyRtI"
+1530111293112	Marionette	INFO	Listening on port 40488
+1530111293218	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1530111332974	geckodriver	INFO	geckodriver 0.21.0
+1530111332980	geckodriver	INFO	Listening on 127.0.0.1:36086
+1530111333990	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.ngjfBVw3AKCb"
+1530111337242	Marionette	INFO	Listening on port 43886
+1530111337419	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://localhost:8001/dashboard/, line 23: ReferenceError: requirejs is not defined
+JavaScript error: http://localhost:8001/templates/dist/assets/js/dashboard.js, line 1: ReferenceError: require is not defined
+JavaScript error: http://localhost:8001/templates/dist/assets/plugins/charts-c3/plugin.js, line 1: ReferenceError: require is not defined
+JavaScript error: http://localhost:8001/templates/dist/assets/plugins/input-mask/plugin.js, line 1: ReferenceError: require is not defined
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1530111344881	geckodriver	INFO	geckodriver 0.21.0
+1530111344891	geckodriver	INFO	Listening on 127.0.0.1:50091
+1530111345889	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.4ZwyRYy1W5qG"
+1530111349629	Marionette	INFO	Listening on port 46070
+1530111349761	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1530111391788	geckodriver	INFO	geckodriver 0.21.0
+1530111391793	geckodriver	INFO	Listening on 127.0.0.1:42483
+1530111392804	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.AWUoMXKJ3UyF"
+1530111396030	Marionette	INFO	Listening on port 34339
+1530111396051	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://localhost:8001/templates/dist/assets/js/require.min.js, line 5: Error: Script error for "bootstrap"
+http://requirejs.org/docs/errors.html#scripterror
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1530811891033	geckodriver	INFO	geckodriver 0.21.0
+1530811891111	geckodriver	INFO	Listening on 127.0.0.1:34087
+1530811892035	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.zNmXbqtgfbAQ"
+1530811930950	Marionette	INFO	Listening on port 42293
+1530811930989	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530811931288	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/SnippetsFeed.jsm :: uninit :: line 185"  data: no] Stack trace: uninit()@resource://activity-stream/lib/SnippetsFeed.jsm:185
+onAction()@resource://activity-stream/lib/SnippetsFeed.jsm:201
+_middleware/</<()@resource://activity-stream/lib/Store.jsm:49
+Store/this[method]()@resource://activity-stream/lib/Store.jsm:28
+uninit()@resource://activity-stream/lib/Store.jsm:151
+uninit()@resource://activity-stream/lib/ActivityStream.jsm:300
+uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:73
+shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:169
+callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4436
+observe()@resource://gre/modules/addons/XPIProvider.jsm:2287
+GeckoDriver.prototype.quit()@driver.js:3300
+despatch()@server.js:293
+execute()@server.js:267
+onPacket/<()@server.js:242
+onPacket()@server.js:241
+_onJSONObjectReady/<()@transport.js:500
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/nsUrlClassifierListManager.js, line 321: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/nsUrlClassifierListManager.js, line 321: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 683: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "JSON store: writing data"
+JavaScript error: jar:file:///usr/lib/firefox/browser/omni.ja!/components/nsBrowserGlue.js, line 1211: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Phase "profile-before-change" is finished, it is too late to register completion condition "JSON store: writing data"" {file: "resource://gre/modules/AsyncShutdown.jsm" line: 683}]'[JavaScript Error: "Phase "profile-before-change" is finished, it is too late to register completion condition "JSON store: writing data"" {file: "resource://gre/modules/AsyncShutdown.jsm" line: 683}]' when calling method: [nsIHandlerService::asyncInit]
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1530811932185	geckodriver	INFO	geckodriver 0.21.0
+1530811932202	geckodriver	INFO	Listening on 127.0.0.1:42086
+1530811933190	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.70owqC4J65Wg"
+1530811936492	Marionette	INFO	Listening on port 43525
+1530811936750	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530811936854	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/SnippetsFeed.jsm :: uninit :: line 185"  data: no] Stack trace: uninit()@resource://activity-stream/lib/SnippetsFeed.jsm:185
+onAction()@resource://activity-stream/lib/SnippetsFeed.jsm:201
+_middleware/</<()@resource://activity-stream/lib/Store.jsm:49
+Store/this[method]()@resource://activity-stream/lib/Store.jsm:28
+uninit()@resource://activity-stream/lib/Store.jsm:151
+uninit()@resource://activity-stream/lib/ActivityStream.jsm:300
+uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:73
+shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:169
+callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4436
+observe()@resource://gre/modules/addons/XPIProvider.jsm:2287
+GeckoDriver.prototype.quit()@driver.js:3300
+despatch()@server.js:293
+execute()@server.js:267
+onPacket/<()@server.js:242
+onPacket()@server.js:241
+_onJSONObjectReady/<()@transport.js:500
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/storage-json.js, line 87: Error: Initialization failed
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/nsLoginManager.js, line 127: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Initialization failed" {file: "jar:file:///usr/lib/firefox/omni.ja!/components/storage-json.js" line: 87}]'[JavaScript Error: "Initialization failed" {file: "jar:file:///usr/lib/firefox/omni.ja!/components/storage-json.js" line: 87}]' when calling method: [nsILoginManagerStorage::initialize]
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/nsUrlClassifierListManager.js, line 321: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/nsUrlClassifierListManager.js, line 321: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 683: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "JSON store: writing data"
+JavaScript error: jar:file:///usr/lib/firefox/browser/omni.ja!/components/nsBrowserGlue.js, line 1211: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Phase "profile-before-change" is finished, it is too late to register completion condition "JSON store: writing data"" {file: "resource://gre/modules/AsyncShutdown.jsm" line: 683}]'[JavaScript Error: "Phase "profile-before-change" is finished, it is too late to register completion condition "JSON store: writing data"" {file: "resource://gre/modules/AsyncShutdown.jsm" line: 683}]' when calling method: [nsIHandlerService::asyncInit]
+1530811937647	geckodriver	INFO	geckodriver 0.21.0
+1530811937659	geckodriver	INFO	Listening on 127.0.0.1:43635
+1530811938651	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.v5P0dDF7NDcg"
+1530811944352	Marionette	INFO	Listening on port 43785
+1530811944407	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1530811946511	geckodriver	INFO	geckodriver 0.21.0
+1530811946515	geckodriver	INFO	Listening on 127.0.0.1:58238
+1530812097231	geckodriver	INFO	geckodriver 0.21.0
+1530812097247	geckodriver	INFO	Listening on 127.0.0.1:51987
+1530812098242	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.SXAQUKcIZ3sY"
+1530812103105	Marionette	INFO	Listening on port 38985
+1530812103198	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530812142390	geckodriver	INFO	geckodriver 0.21.0
+1530812142394	geckodriver	INFO	Listening on 127.0.0.1:53488
+1530812143407	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.KyEqNRAsuTiV"
+1530812151031	Marionette	INFO	Listening on port 41646
+1530812151479	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530812187866	geckodriver	INFO	geckodriver 0.21.0
+1530812187870	geckodriver	INFO	Listening on 127.0.0.1:54337
+1530812188888	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.C4ZXA3myHm2z"
+1530812205665	Marionette	INFO	Listening on port 39955
+1530812205790	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://localhost:8001/dashboard/, line 23: ReferenceError: requirejs is not defined
+JavaScript error: http://localhost:8001/templates/dist/assets/js/dashboard.js, line 1: ReferenceError: require is not defined
+JavaScript error: http://localhost:8001/templates/dist/assets/plugins/charts-c3/plugin.js, line 1: ReferenceError: require is not defined
+JavaScript error: http://localhost:8001/templates/dist/assets/plugins/input-mask/plugin.js, line 1: ReferenceError: require is not defined
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1530812215194	geckodriver	INFO	geckodriver 0.21.0
+1530812215199	geckodriver	INFO	Listening on 127.0.0.1:56559
+1530812216214	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.n2nb4319ZOg4"
+1530812219241	Marionette	INFO	Listening on port 43184
+1530812219258	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530812219497	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/SnippetsFeed.jsm :: uninit :: line 185"  data: no] Stack trace: uninit()@resource://activity-stream/lib/SnippetsFeed.jsm:185
+onAction()@resource://activity-stream/lib/SnippetsFeed.jsm:201
+_middleware/</<()@resource://activity-stream/lib/Store.jsm:49
+Store/this[method]()@resource://activity-stream/lib/Store.jsm:28
+uninit()@resource://activity-stream/lib/Store.jsm:151
+uninit()@resource://activity-stream/lib/ActivityStream.jsm:300
+uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:73
+shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:169
+callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4436
+observe()@resource://gre/modules/addons/XPIProvider.jsm:2287
+GeckoDriver.prototype.quit()@driver.js:3300
+despatch()@server.js:293
+execute()@server.js:267
+onPacket/<()@server.js:242
+onPacket()@server.js:241
+_onJSONObjectReady/<()@transport.js:500
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/nsUrlClassifierListManager.js, line 321: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/nsUrlClassifierListManager.js, line 321: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 683: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "JSON store: writing data"
+JavaScript error: jar:file:///usr/lib/firefox/browser/omni.ja!/components/nsBrowserGlue.js, line 1211: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Phase "profile-before-change" is finished, it is too late to register completion condition "JSON store: writing data"" {file: "resource://gre/modules/AsyncShutdown.jsm" line: 683}]'[JavaScript Error: "Phase "profile-before-change" is finished, it is too late to register completion condition "JSON store: writing data"" {file: "resource://gre/modules/AsyncShutdown.jsm" line: 683}]' when calling method: [nsIHandlerService::asyncInit]
+1530812220389	geckodriver	INFO	geckodriver 0.21.0
+1530812220398	geckodriver	INFO	Listening on 127.0.0.1:52717
+1530812221411	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.hVlhJP6bZD6w"
+1530812224030	Marionette	INFO	Listening on port 33511
+1530812224049	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1530812228454	geckodriver	INFO	geckodriver 0.21.0
+1530812228461	geckodriver	INFO	Listening on 127.0.0.1:60336
+1530812229477	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.SbvTMF12yeFY"
+1530812232331	Marionette	INFO	Listening on port 37356
+1530812232417	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1530812235911	geckodriver	INFO	geckodriver 0.21.0
+1530812235919	geckodriver	INFO	Listening on 127.0.0.1:44571
+1530812236941	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.iaC4gk3w4clP"
+1530812239689	Marionette	INFO	Listening on port 33988
+1530812239768	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1530812541161	geckodriver	INFO	geckodriver 0.21.0
+1530812541165	geckodriver	INFO	Listening on 127.0.0.1:54393
+1530812542171	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.catHm658uAjI"
+1530812545439	Marionette	INFO	Listening on port 42678
+1530812545707	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://localhost:8001/dashboard/, line 23: ReferenceError: requirejs is not defined
+JavaScript error: http://localhost:8001/templates/dist/assets/js/dashboard.js, line 1: ReferenceError: require is not defined
+JavaScript error: http://localhost:8001/templates/dist/assets/plugins/charts-c3/plugin.js, line 1: ReferenceError: require is not defined
+JavaScript error: http://localhost:8001/templates/dist/assets/plugins/input-mask/plugin.js, line 1: ReferenceError: require is not defined
+JavaScript error: http://localhost:8001/dashboard/, line 23: ReferenceError: requirejs is not defined
+JavaScript error: http://localhost:8001/templates/dist/assets/js/dashboard.js, line 1: ReferenceError: require is not defined
+JavaScript error: http://localhost:8001/templates/dist/assets/plugins/charts-c3/plugin.js, line 1: ReferenceError: require is not defined
+JavaScript error: http://localhost:8001/templates/dist/assets/plugins/input-mask/plugin.js, line 1: ReferenceError: require is not defined
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1530812553074	geckodriver	INFO	geckodriver 0.21.0
+1530812553079	geckodriver	INFO	Listening on 127.0.0.1:40515
+1530812554083	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.ubPi7c414tCS"
+1530812556826	Marionette	INFO	Listening on port 37742
+1530812556970	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1530812559930	geckodriver	INFO	geckodriver 0.21.0
+1530812559940	geckodriver	INFO	Listening on 127.0.0.1:35781
+1530812560949	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.GeypBrpLVH17"
+1530812563598	Marionette	INFO	Listening on port 36869
+1530812563686	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1530812566025	geckodriver	INFO	geckodriver 0.21.0
+1530812566038	geckodriver	INFO	Listening on 127.0.0.1:34646
+1530812567057	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.3hPT5jTzdzD5"
+1530812569859	Marionette	INFO	Listening on port 43319
+1530812569889	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1530812573273	geckodriver	INFO	geckodriver 0.21.0
+1530812573284	geckodriver	INFO	Listening on 127.0.0.1:39774
+1530812574305	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.9V2MH74EFTCa"
+1530812576887	Marionette	INFO	Listening on port 37045
+1530812576940	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1530812926812	geckodriver	INFO	geckodriver 0.21.0
+1530812926834	geckodriver	INFO	Listening on 127.0.0.1:44690
+1530812927861	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.zAxlbvpa5LyJ"
+1530812931832	Marionette	INFO	Listening on port 36951
+1530812931982	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://localhost:8001/dashboard/, line 23: ReferenceError: requirejs is not defined
+JavaScript error: http://localhost:8001/templates/dist/assets/js/dashboard.js, line 1: ReferenceError: require is not defined
+JavaScript error: http://localhost:8001/templates/dist/assets/plugins/charts-c3/plugin.js, line 1: ReferenceError: require is not defined
+JavaScript error: http://localhost:8001/templates/dist/assets/plugins/input-mask/plugin.js, line 1: ReferenceError: require is not defined
+JavaScript error: http://localhost:8001/dashboard/, line 23: ReferenceError: requirejs is not defined
+JavaScript error: http://localhost:8001/templates/dist/assets/js/dashboard.js, line 1: ReferenceError: require is not defined
+JavaScript error: http://localhost:8001/templates/dist/assets/plugins/charts-c3/plugin.js, line 1: ReferenceError: require is not defined
+JavaScript error: http://localhost:8001/templates/dist/assets/plugins/input-mask/plugin.js, line 1: ReferenceError: require is not defined
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1530812938426	geckodriver	INFO	geckodriver 0.21.0
+1530812938436	geckodriver	INFO	Listening on 127.0.0.1:58189
+1530812939444	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.kZ8Dvz7EgVpE"
+1530812942331	Marionette	INFO	Listening on port 33985
+1530812942379	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1530812946229	geckodriver	INFO	geckodriver 0.21.0
+1530812946236	geckodriver	INFO	Listening on 127.0.0.1:47783
+1530812947250	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.x2JHJXGI9321"
+1530812950052	Marionette	INFO	Listening on port 37371
+1530812950109	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1530812953099	geckodriver	INFO	geckodriver 0.21.0
+1530812953111	geckodriver	INFO	Listening on 127.0.0.1:55995
+1530812954118	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.DkDtPaOKEoNo"
+1530812956992	Marionette	INFO	Listening on port 34536
+1530812957092	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1530812960714	geckodriver	INFO	geckodriver 0.21.0
+1530812960727	geckodriver	INFO	Listening on 127.0.0.1:48337
+1530812961733	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.1KvREfK5szZ1"
+1530812964570	Marionette	INFO	Listening on port 43908
+1530812964666	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://localhost:8001/templates/dist/assets/js/require.min.js, line 5: Error: Script error for "bootstrap"
+http://requirejs.org/docs/errors.html#scripterror
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
